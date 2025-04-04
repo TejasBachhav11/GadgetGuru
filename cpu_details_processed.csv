@@ -1,0 +1,147 @@
+Processor,Clockspeed,Turbo Speed,Cores,Threads,TDP,TDP UP
+AMD Ryzen 9 7945HX3D,2.3 GHz,5.4 GHz,16,32,55 W,N/A
+AMD Ryzen 9 7945HX,2.5 GHz,5.4 GHz,16,32,55 W,N/A
+AMD Ryzen 9 7940HX,2.4 GHz,5.2 GHz,16,32,55 W,N/A
+Intel Core i9-13980HX,N/A,N/A,24,N/A,55 W,N/A
+Intel Core i9-14900HX,N/A,N/A,24,N/A,55 W,N/A
+AMD Ryzen 9 7845HX,3.0 GHz,5.2 GHz,12,24,55 W,N/A
+Intel Core i9-13900HX,N/A,N/A,24,N/A,55 W,N/A
+Intel Core i9-13950HX,N/A,N/A,24,N/A,55 W,N/A
+Apple M3 Max 16 Core,N/A,N/A,16,N/A,78 W,N/A
+Intel Core i7-13850HX,N/A,N/A,20,N/A,55 W,N/A
+Intel Core i7-14700HX,N/A,N/A,20,N/A,55 W,N/A
+Intel Core i7-14650HX,N/A,N/A,16,N/A,157 W,N/A
+Apple M3 Max 14 Core,N/A,N/A,14,N/A,78 W,N/A
+AMD Ryzen AI 9 HX 370,N/A,N/A,12,N/A,28 W,N/A
+Intel Core i7-13700HX,N/A,N/A,16,N/A,55 W,N/A
+AMD Ryzen 7 7745HX,3.6 GHz,5.1 GHz,8,16,55 W,N/A
+Intel Core i9-13900HK,N/A,N/A,14,N/A,45 W,N/A
+Intel Core i7-13650HX,N/A,N/A,14,N/A,55 W,N/A
+AMD Ryzen 9 PRO 8945HS,4.0 GHz,5.2 GHz,8,16,45 W,N/A
+AMD Ryzen 9 8945H,4.0 GHz,5.2 GHz,8,16,45 W,N/A
+Intel Core i5-13500HX,N/A,N/A,14,N/A,55 W,N/A
+AMD Ryzen 9 7940HS,4.0 GHz,5.2 GHz,8,16,54 W,N/A
+Intel Core i9-13905H,N/A,N/A,14,N/A,45 W,N/A
+Intel Core Ultra 9 185H,N/A,N/A,16,N/A,45 W,N/A
+AMD Ryzen 9 8945HS,4.0 GHz,5.2 GHz,8,16,45 W,N/A
+AMD Ryzen 7 PRO 8845HS,3.8 GHz,5.1 GHz,8,16,45 W,N/A
+AMD Ryzen 7 7840HS,3.8 GHz,5.1 GHz,8,16,54 W,N/A
+AMD Ryzen 7 8845HS,3.8 GHz,5.1 GHz,8,16,45 W,N/A
+Intel Core i9-13900H,N/A,N/A,14,N/A,45 W,N/A
+AMD Ryzen AI 9 365,N/A,N/A,10,N/A,28 W,N/A
+AMD Ryzen 9 7940H,4.0 GHz,5.2 GHz,8,16,54 W,N/A
+AMD Ryzen 7 7840H,3.8 GHz,5.1 GHz,8,16,54 W,N/A
+AMD Ryzen 9 PRO 7940HS,4.0 GHz,5.2 GHz,8,16,45 W,N/A
+AMD Ryzen 7 8845H,3.8 GHz,5.1 GHz,8,16,45 W,N/A
+Intel Core i5-13600HX,N/A,N/A,14,N/A,55 W,N/A
+Intel Core i7-13700H,N/A,N/A,14,N/A,45 W,N/A
+AMD Ryzen 7 PRO 8840HS,3.3 GHz,5.1 GHz,8,16,28 W,N/A
+Intel Core i7-13800H,N/A,N/A,14,N/A,45 W,N/A
+AMD Ryzen 5 7645HX,4.0 GHz,5.0 GHz,6,12,55 W,N/A
+Intel Core i5-14500HX,N/A,N/A,14,N/A,55 W,N/A
+Apple M2 Max 12 Core 3680 MHz,3.7 GHz,N/A,12,12,N/A,N/A
+AMD Ryzen 7 PRO 7840HS,3.8 GHz,5.1 GHz,8,16,54 W,N/A
+Apple M3 Pro 12 Core,N/A,N/A,12,N/A,27 W,N/A
+Apple M2 Pro 12 Core 3480 MHz,3.5 GHz,N/A,12,12,N/A,N/A
+Snapdragon X Elite - X1E8010,3.4 GHz,4.0 GHz,12,12,N/A,N/A
+Intel Core Ultra 7 165H,N/A,N/A,16,N/A,28 W,N/A
+Intel Core i5-13450HX,N/A,N/A,10,N/A,55 W,N/A
+Intel Core Ultra 7 155H,N/A,N/A,16,N/A,28 W,N/A
+Intel Core i7-13620H,N/A,N/A,10,N/A,45 W,N/A
+AMD Ryzen 7 7840U,3.3 GHz,5.1 GHz,8,16,30 W,N/A
+Apple M3 Pro 11 Core,N/A,N/A,11,N/A,27 W,N/A
+AMD Ryzen 7 PRO 7840U,3.3 GHz,5.1 GHz,8,16,30 W,N/A
+AMD Ryzen 7 7840S,3.8 GHz,5.1 GHz,8,16,54 W,N/A
+Intel Core i5-13600H,N/A,N/A,12,N/A,45 W,N/A
+AMD Ryzen 7 7435HS,3.1 GHz,4.5 GHz,8,16,45 W,N/A
+AMD Ryzen 7 8840HS,3.3 GHz,5.1 GHz,8,16,28 W,N/A
+Qualcomm Snapdragon X Elite - X1E-84-100,3.8 GHz,4.2 GHz,12,12,N/A,N/A
+AMD Ryzen 7 7735H,3.2 GHz,4.8 GHz,8,16,54 W,N/A
+AMD Ryzen 7 7735HS,3.2 GHz,4.8 GHz,8,16,54 W,N/A
+AMD Ryzen 7 8840U,3.3 GHz,5.1 GHz,8,16,28 W,N/A
+AMD Ryzen 7 PRO 8840U,3.3 GHz,5.1 GHz,8,16,28 W,N/A
+Intel Core i7-13705H,N/A,N/A,14,N/A,45 W,N/A
+Qualcomm Snapdragon X Elite - X1E-80-100,3.4 GHz,4.0 GHz,12,12,N/A,N/A
+Intel Core i7-13700TE,N/A,N/A,16,N/A,35 W,N/A
+AMD Ryzen 5 7640HS,4.3 GHz,5.0 GHz,6,12,54 W,N/A
+Intel Core Ultra 5 135H,N/A,N/A,14,N/A,28 W,N/A
+AMD Ryzen 5 PRO 7640HS,4.3 GHz,5.0 GHz,6,12,54 W,N/A
+Qualcomm Snapdragon X Elite - X1E-78-100,3.4 GHz,3.4 GHz,12,12,23 W,N/A
+Intel Core i5-13500H,N/A,N/A,12,N/A,45 W,N/A
+AMD Ryzen 5 8645HS,4.3 GHz,5.0 GHz,6,12,45 W,N/A
+Intel Core Ultra 5 125H,N/A,N/A,14,N/A,28 W,N/A
+AMD Ryzen 7 7736U,2.7 GHz,4.7 GHz,8,16,28 W,N/A
+Qualcomm Snapdragon X Plus X1P-64-100,3.4 GHz,3.4 GHz,10,10,N/A,N/A
+AMD Ryzen 5 PRO 8640HS,3.5 GHz,4.9 GHz,6,12,28 W,N/A
+Apple M2 Pro 10 Core 3480 MHz,3.5 GHz,N/A,10,10,N/A,N/A
+AMD Ryzen 5 PRO 7640U,3.5 GHz,4.9 GHz,6,12,28 W,N/A
+AMD Ryzen 7 7735U,2.7 GHz,4.8 GHz,8,16,28 W,N/A
+AMD Ryzen 5 7640U,3.5 GHz,4.9 GHz,6,12,28 W,N/A
+AMD Ryzen 5 8640U,3.5 GHz,4.9 GHz,6,12,28 W,N/A
+Intel Core i7-12650HX,N/A,N/A,14,N/A,55 W,N/A
+Intel Core i7-1370P,N/A,N/A,14,N/A,28 W,N/A
+AMD Ryzen 7 Pro 7735U,2.7 GHz,4.8 GHz,8,16,28 W,N/A
+AMD Ryzen 5 8640HS,3.5 GHz,4.9 GHz,6,12,28 W,N/A
+Intel Core Ultra 7 258V,N/A,N/A,8,N/A,17 W,N/A
+Apple M3 8 Core,N/A,N/A,8,N/A,20 W,N/A
+Intel Core i7-1360P,N/A,N/A,12,N/A,28 W,N/A
+AMD Ryzen 7 PRO 7730U,2.0 GHz,4.5 GHz,8,16,15 W,N/A
+Intel Core i5-12450HX,N/A,N/A,8,N/A,148 W,N/A
+Intel Core i5-1350P,N/A,N/A,12,N/A,28 W,N/A
+Intel Core i5-1340P,N/A,N/A,12,N/A,28 W,N/A
+AMD Ryzen 5 7540U,3.2 GHz,4.9 GHz,6,12,28 W,N/A
+AMD Ryzen 7 7730U,2.0 GHz,4.5 GHz,8,16,15 W,N/A
+AMD Ryzen 5 PRO 8540U,4.9 GHz,3.2 GHz,6,12,28 W,N/A
+Intel Core i5-13420H,N/A,N/A,8,N/A,45 W,N/A
+AMD Ryzen 5 7535HS,3.3 GHz,4.6 GHz,6,12,35 W,N/A
+AMD Ryzen 5 8540U,3.2 GHz,4.9 GHz,6,12,28 W,N/A
+AMD Ryzen 5 PRO 7540U,3.2 GHz,4.9 GHz,6,12,30 W,N/A
+AMD Ryzen 5 Pro 7535U,2.9 GHz,4.6 GHz,6,12,28 W,N/A
+Intel Core Ultra 5 125U,N/A,N/A,12,N/A,15 W,N/A
+Intel Core Ultra 5 135U,N/A,N/A,12,N/A,28 W,N/A
+Intel Core Ultra 7 165U,N/A,N/A,12,N/A,15 W,N/A
+AMD Ryzen 5 7535U,2.9 GHz,4.6 GHz,6,12,28 W,N/A
+Intel Core Ultra 7 155U,N/A,N/A,12,N/A,15 W,N/A
+AMD Ryzen 5 7530U,2.0 GHz,4.5 GHz,6,12,15 W,N/A
+Intel Core 7 150U,N/A,N/A,10,N/A,15 W,N/A
+AMD Ryzen 5 7430U,2.3 GHz,4.3 GHz,6,12,15 W,N/A
+Intel Core i5-1345U,N/A,N/A,10,N/A,15 W,N/A
+Intel Core Ultra 7 164U,N/A,N/A,12,N/A,9 W,N/A
+Intel Core 3 100U,N/A,N/A,6,N/A,15 W,N/A
+AMD Ryzen 5 PRO 7530U,2.0 GHz,4.5 GHz,6,12,15 W,N/A
+Intel Core i7-1365U,N/A,N/A,10,N/A,15 W,N/A
+Intel Core i7-1355U,N/A,N/A,10,N/A,15 W,N/A
+Intel Core i5-1335U,N/A,N/A,10,N/A,15 W,N/A
+Intel Core i5-1334U,N/A,N/A,10,N/A,15 W,N/A
+AMD Ryzen 3 7440U,3.0 GHz,4.7 GHz,4,8,28 W,N/A
+AMD Ryzen 3 8440U,3.0 GHz,4.7 GHz,4,8,28 W,N/A
+Intel Core i5-1240U,N/A,N/A,10,N/A,29 W,N/A
+AMD Ryzen 3 PRO 7330U,2.3 GHz,4.3 GHz,4,8,15 W,N/A
+Intel Core i3-1315U,N/A,N/A,6,N/A,15 W,N/A
+AMD Ryzen 3 7335U,3.0 GHz,4.3 GHz,4,8,28 W,N/A
+AMD Ryzen 3 PRO 7335U,3.0 GHz,4.3 GHz,4,8,30 W,N/A
+Intel Core Ultra 5 134U,N/A,N/A,12,N/A,30 W,N/A
+Microsoft SQ3 @ 3.0 GHz,N/A,N/A,8,N/A,N/A,N/A
+AMD Ryzen 5 5500H,3.3 GHz,4.2 GHz,4,8,45 W,N/A
+AMD Ryzen 5 7235HS,3.2 GHz,4.2 GHz,4,8,45 W,N/A
+AMD Ryzen 3 7330U,2.3 GHz,4.3 GHz,4,8,15 W,N/A
+Intel Core i3-N305,0.8 GHz,3.8 GHz,8,8,15 W,N/A
+Intel Core i7-1265UE,N/A,N/A,10,N/A,28 W,N/A
+AMD Ryzen 5 7520U,2.8 GHz,4.3 GHz,4,8,15 W,N/A
+Intel Core i3-1305U,N/A,N/A,5,N/A,15 W,N/A
+AMD Ryzen 3 7320U,2.4 GHz,4.1 GHz,4,8,15 W,N/A
+Intel Core i3-N300,N/A,3.8 GHz,8,8,7 W,N/A
+AMD Ryzen 3 7320C,2.4 GHz,4.1 GHz,4,8,15 W,N/A
+Intel U300,N/A,N/A,5,N/A,15 W,N/A
+AMD Ryzen 5 Microsoft Surface Edition,2.1 GHz,3.7 GHz,4,8,15 W,N/A
+Intel Core i3-1025G1 @ 1.20GHz,1.2 GHz,3.6 GHz,4,4,N/A,N/A
+Intel N95,1.7 GHz,3.4 GHz,4,4,15 W,N/A
+AMD Athlon Gold 7220U,2.4 GHz,3.7 GHz,2,4,15 W,N/A
+Intel Core i7-6970HQ @ 2.80GHz,2.8 GHz,3.7 GHz,4,8,45 W,N/A
+AMD Athlon PRO 300U,2.4 GHz,3.3 GHz,2,4,15 W,N/A
+Intel Core i3-6167U @ 2.70GHz,2.7 GHz,N/A,2,4,28 W,N/A
+AMD Athlon Silver 7120U,2.4 GHz,3.5 GHz,2,2,15 W,N/A
+ARM Cortex-A78 4 Core 2000 MHz,2.0 GHz,N/A,4,8,N/A,N/A
+AMD Athlon PRO 3045B,2.3 GHz,3.2 GHz,2,2,15 W,N/A
+AMD A4-1350 APU,1.0 GHz,N/A,4,4,8 W,N/A
+AMD Turion X2 Dual-Core Mobile RM-76,2.3 GHz,N/A,2,2,35 W,N/A

@@ -1,0 +1,2032 @@
+GPU Name,Benchmark,Max Memory Size,Max TDP,Videocard Category
+"GeForce RTX 4090
+(86%) 38,577
+2,709.50*",385772709,24576 MB,450 W,Desktop  Other names: NVIDIA GeForce RTX 4090
+"GeForce RTX 4090 D
+(81%) 36,196
+NA",36196,N/A,N/A,N/A
+"GeForce RTX 4080
+(78%) 34,633
+1,299.99*",346331299,16384 MB,320 W,Desktop  Other names: NVIDIA GeForce RTX 4080
+"RTX 5880 Ada Generation
+(77%) 34,569
+NA",34569,N/A,N/A,Desktop  Other names: NVIDIA RTX 5880 Ada Generation
+"GeForce RTX 4080 SUPER
+(77%) 34,302
+999.99",34302999,16384 MB,320 W,Desktop  Other names: NVIDIA GeForce RTX 4080 SUPER
+"GeForce RTX 4070 Ti
+(71%) 31,829
+749.99",31829749,12288 MB,285 W,Desktop  Other names: NVIDIA GeForce RTX 4070 Ti
+"GeForce RTX 4070 Ti SUPER
+(71%) 31,749
+779.99",31749779,16384 MB,285 W,Desktop  Other names: NVIDIA GeForce RTX 4070 Ti SUPER
+"Radeon RX 7900 XTX
+(70%) 31,061
+849.99",31061849,24576 MB,355 W,Desktop  Other names: AMD Radeon RX 7900 XTX
+"GeForce RTX 4070 SUPER
+(68%) 30,195
+589.99",30195589,12288 MB,220 W,Desktop  Other names: NVIDIA GeForce RTX 4070 SUPER
+"RTX 4500 Ada Generation
+(67%) 29,978
+NA",29978,N/A,N/A,N/A
+"GeForce RTX 3090 Ti
+(66%) 29,686
+1,659.00",296861659,24576 MB,450 W,Desktop  Other names: NVIDIA GeForce RTX 3090 Ti
+"Radeon PRO W7900
+(66%) 29,356
+NA",29356,N/A,N/A,N/A
+"RTX 5000 Ada Generation
+(65%) 29,010
+NA",29010,N/A,N/A,N/A
+"Radeon RX 7900 XT
+(65%) 28,884
+649.99",28884649,20480 MB,315 W,"Desktop  Other names: AMD Radeon RX 7900 XT, AMD Radeon RX 7900 XT Series"
+"RTX 6000 Ada Generation
+(65%) 28,866
+NA",28866,N/A,N/A,N/A
+"Radeon PRO W7800
+(64%) 28,440
+NA",28440,N/A,N/A,N/A
+"Radeon RX 6950 XT
+(63%) 28,158
+999.99*",28158999,16384 MB,335 W,"Desktop  Other names: AMD Radeon RX 6950 XT, AMD Radeon RX 6950 XT Series"
+"GeForce RTX 4090 Laptop GPU
+(62%) 27,693
+NA",27693,16384 MB,150 W,Mobile Other names: NVIDIA GeForce RTX 4090 Laptop GPU (Mobile)
+"GeForce RTX 3080 Ti
+(61%) 27,110
+1,185.29",271101185,12288 MB,350 W,Desktop  Other names: NVIDIA GeForce RTX 3080 Ti
+"GeForce RTX 4070
+(60%) 26,984
+509.99",26984509,12288 MB,200 W,Desktop  Other names: NVIDIA GeForce RTX 4070
+"Radeon RX 7900 GRE
+(60%) 26,797
+539.99*",26797539,N/A,N/A,N/A
+"Radeon RX 6900 XT
+(60%) 26,795
+1,509.67",267951509,16384 MB,300 W,"Desktop  Other names: AMD Radeon RX 6900 XT, AMD Radeon RX 6900 XT Series"
+"GeForce RTX 3090
+(60%) 26,737
+1,778.26",267371778,24576 MB,350 W,Desktop  Other names: NVIDIA GeForce RTX 3090
+"GeForce RTX 3080 12GB
+(60%) 26,633
+NA",26633,12288 MB,350 W,Desktop  Other names: NVIDIA GeForce RTX 3080
+"GeForce RTX 3080
+(56%) 25,232
+679.99",25232679,10240 MB,320 W,Desktop  Other names: NVIDIA GeForce RTX 3080
+"GeForce RTX 4080 Laptop GPU
+(56%) 25,080
+NA",25080,12288 MB,150 W,Mobile Other names: NVIDIA GeForce RTX 4080 Laptop GPU (Mobile)
+"Radeon RX 6800 XT
+(56%) 25,031
+645.24",25031645,16384 MB,300 W,"Desktop  Other names: AMD Radeon RX 6800 XT, RX6800 XT, RX 6800 XT, AMD Radeon RX 6800 XT Series"
+"RTX 4000 Ada Generation
+(56%) 24,993
+NA",24993,N/A,N/A,N/A
+"Radeon RX 7800 XT
+(54%) 24,380
+469.99",24380469,16384 MB,263 W,"Desktop  Other names: AMD Radeon RX 7800 XT, AMD  Radeon RX 7800 XT"
+"RTX 5000 Ada Generation Laptop GPU
+(54%) 24,197
+NA",24197,N/A,N/A,N/A
+"GeForce RTX 3070 Ti
+(53%) 23,564
+699.99",23564699,8192 MB,290 W,Desktop  Other names: NVIDIA GeForce RTX 3070 Ti
+"GeForce RTX 4060 Ti
+(51%) 22,937
+379.99",22937379,8192 MB,160 W,Desktop  Other names: NVIDIA GeForce RTX 4060 Ti
+"GeForce RTX 4060 Ti 16GB
+(51%) 22,896
+449.99",22896449,16384 MB,165 W,Desktop  Other names: NVIDIA GeForce RTX 4060 Ti
+"RTX 4000 Ada Generation Laptop GPU
+(51%) 22,879
+NA",22879,N/A,N/A,N/A
+"RTX A5000
+(51%) 22,862
+2,229.99*",228622229,24576 MB,230 W,Workstation  Other names: NVIDIA RTX A5000
+"Radeon RX 7900M
+(51%) 22,752
+NA",22752,N/A,N/A,Mobile Other names: AMD Radeon(TM) RX 7900M
+"RTX A6000
+(50%) 22,483
+4,109.99*",224834109,49152 MB,300 W,Workstation  Other names: NVIDIA RTX A6000
+"Radeon RX 7700 XT
+(50%) 22,394
+379.76",22394379,12288 MB,245 W,Desktop  Other names: AMD Radeon RX 7700 XT
+"GeForce RTX 3070
+(50%) 22,359
+489.99",22359489,8192 MB,220 W,Desktop  Other names: NVIDIA GeForce RTX 3070
+"Radeon RX 6800
+(50%) 22,191
+348.31",22191348,16384 MB,250 W,Desktop  Other names: AMD Radeon RX 6800
+"NVIDIA A10
+(49%) 22,064
+NA",22064,N/A,N/A,N/A
+"GRID RTX6000-6Q
+(49%) 21,987
+NA",21987,N/A,N/A,Desktop  Other names: NVIDIA GRID RTX6000-6Q
+"RTX A5500
+(49%) 21,966
+2,169.99*",219662169,N/A,N/A,N/A
+"GeForce RTX 2080 Ti
+(48%) 21,736
+1,295.00",217361295,11264 MB,250 W,Desktop  Other names: NVIDIA GeForce RTX 2080 Ti
+"RTX A4500
+(48%) 21,640
+1,549.99",216401549,N/A,N/A,N/A
+"Radeon 610M Ryzen 9 7845HX
+(48%) 21,623
+NA",21623,N/A,N/A,Mobile Other names: AMD Radeon(TM) 610M Ryzen 9 7845HX 
+"RTX 4000 SFF Ada Generation
+(47%) 21,042
+NA",21042,N/A,N/A,N/A
+"Radeon RX 6750 XT
+(46%) 20,830
+299.99",20830299,12288 MB,250 W,"Desktop  Other names: AMD Radeon RX 6750 XT, AMD Radeon RX 6750 XT Series"
+"GeForce RTX 3060 Ti
+(46%) 20,490
+549.99",20490549,8192 MB,200 W,Desktop  Other names: NVIDIA GeForce RTX 3060 Ti
+"TITAN RTX
+(45%) 19,990
+2,499.00*",199902499,24576 MB,280 W,Workstation  Other names: NVIDIA TITAN RTX
+"TITAN V
+(45%) 19,976
+1,999.99*",199761999,12288 MB,250 W,Desktop  Other names: NVIDIA TITAN V
+"GeForce RTX 4060
+(44%) 19,884
+284.97",19884284,8192 MB,115 W,Desktop  Other names: NVIDIA GeForce RTX 4060
+"Radeon RX 6700 XT
+(44%) 19,875
+787.16",19875787,12288 MB,230 W,"Desktop  Other names: AMD Radeon RX 6700 XT, AMD Radeon RX 6700 XT Series"
+"Quadro GV100
+(44%) 19,824
+8,999.00*",198248999,32768 MB,250 W,Workstation  Other names: NVIDIA Quadro GV100
+"Radeon PRO W6800
+(44%) 19,791
+1,849.99*",197911849,N/A,N/A,N/A
+"L40-8Q
+(44%) 19,705
+NA",19705,N/A,N/A,Desktop  Other names: NVIDIA L40-8Q
+"GeForce RTX 3080 Ti Laptop GPU
+(44%) 19,682
+NA",19682,16384 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 3080 Ti Laptop GPU (Mobile)
+"GeForce RTX 2080 SUPER
+(44%) 19,570
+684.86*",19570684,8192 MB,250 W,"Desktop  Other names: NVIDIA GeForce RTX 2080 SUPER, NVIDIA GeForce RTX 2080 Super (Mobile)"
+"GeForce RTX 4070 Laptop GPU
+(44%) 19,568
+NA",19568,8192 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 4070 Laptop GPU (Mobile)
+"RTX A4000
+(43%) 19,457
+749.99*",19457749,16384 MB,140 W,Workstation  Other names: NVIDIA RTX A4000
+"Radeon RX 6700
+(43%) 19,330
+NA",19330,10240 MB,175 W,"Desktop  Other names: AMD Radeon RX 6700, AMD Radeon 6700, AMD Radeon RX 6700 Series"
+"Radeon RX 6750 GRE 12GB
+(43%) 19,297
+NA",19297,N/A,N/A,N/A
+"Quadro RTX 8000
+(43%) 19,278
+4,290.00*",192784290,49152 MB,260 W,Workstation  Other names: NVIDIA Quadro RTX 8000
+"Radeon PRO W7700
+(43%) 19,227
+NA",19227,N/A,N/A,N/A
+"TITAN Xp COLLECTORS EDITION
+(43%) 19,106
+NA",19106,12288 MB,250 W,Desktop  Other names: NVIDIA TITAN Xp COLLECTORS EDITION
+"RTX 3500 Ada Generation Laptop GPU
+(42%) 18,957
+NA",18957,N/A,N/A,N/A
+"L40S
+(42%) 18,881
+NA",18881,N/A,N/A,N/A
+"GeForce RTX 2080
+(42%) 18,797
+800.61*",18797800,8096 MB,250 W,"Desktop  Other names: NVIDIA GeForce RTX 2080, NVIDIA GeForce RTX 2080 (Mobile)"
+"NVIDIA A10G
+(42%) 18,773
+NA",18773,N/A,N/A,N/A
+"Quadro RTX 6000
+(42%) 18,715
+6,300.00*",187156300,24576 MB,295 W,"Workstation  Other names: NVIDIA Quadro RTX 6000, NVIDIA Quadro RTX 6000 (Mobile)"
+"NVIDIA TITAN Xp
+(42%) 18,707
+1,645.00*",187071645,12288 MB,250 W,Desktop  Other names: NVIDIA TITAN Xp
+"Radeon RX 6750 GRE 10GB
+(41%) 18,614
+NA",18614,N/A,N/A,N/A
+"GeForce GTX 1080 Ti
+(41%) 18,569
+483.82*",18569483,11264 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX 1080 Ti
+"GeForce RTX 2070 SUPER
+(41%) 18,232
+539.99*",18232539,8192 MB,215 W,"Desktop  Other names: NVIDIA GeForce RTX 2070 SUPER, NVIDIA GeForce RTX 2070 Super (Mobile)"
+"GeForce RTX 3070 Ti Laptop GPU
+(40%) 17,953
+NA",17953,8192 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 3070 Ti Laptop GPU (Mobile)
+"A40-48Q
+(40%) 17,864
+NA",17864,N/A,N/A,N/A
+"RTX 2000 Ada Generation
+(40%) 17,746
+NA",17746,N/A,N/A,N/A
+"GeForce RTX 4060 Laptop GPU
+(39%) 17,668
+NA",17668,8192 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 4060 Laptop GPU (Mobile)
+"Radeon Pro W5700X
+(39%) 17,591
+NA",17591,N/A,N/A,N/A
+"Radeon RX 6600 LE
+(39%) 17,541
+NA",17541,N/A,N/A,N/A
+"Radeon RX 6850M XT
+(39%) 17,512
+NA",17512,N/A,N/A,"Mobile Other names: AMD Radeon RX 6850M XT, AMD Radeon(TM) RX 6850M XT"
+"RTX A4500 Laptop GPU
+(39%) 17,425
+NA",17425,N/A,N/A,N/A
+"RTX A5500 Laptop GPU
+(39%) 17,350
+NA",17350,N/A,N/A,N/A
+"Radeon RX 7600 XT
+(38%) 17,255
+279.97",17255279,N/A,N/A,N/A
+"Radeon RX 6650 XT
+(38%) 17,203
+209.99",17203209,8192 MB,176 W,"Desktop  Other names: AMD Radeon RX 6650 XT, AMD Radeon RX 6650 XT Series"
+"Radeon RX 6650M XT
+(38%) 17,071
+NA",17071,N/A,N/A,Mobile Other names: AMD Radeon(TM) RX 6650M XT
+"TITAN V CEO Edition
+(38%) 16,988
+NA",16988,32000 MB,250 W,Desktop  Other names: NVIDIA TITAN V JHH Special Edition
+"GeForce RTX 3060 12GB
+(38%) 16,982
+253.22",16982253,12288 MB,170 W,Desktop  Other names: NVIDIA GeForce RTX 3060
+"Radeon VII
+(37%) 16,645
+1,899.95*",166451899,16384 MB,300 W,Desktop  Other names: AMD Radeon VII
+"Radeon RX 5700 XT
+(37%) 16,561
+488.33*",16561488,8192 MB,225 W,"Desktop  Other names: AMD Radeon RX 5700 XT, ASUS Radeon RX 5700 XT, Radeon RX 5700XT, AMD Radeon RX 5700 XT Series"
+"Radeon RX 5700 XT 50th Anniversary
+(37%) 16,560
+NA",16560,8192 MB,235 W,Desktop  Other names: AMD Radeon RX 5700 XT 50th Anniversary
+"Radeon RX 7600
+(37%) 16,548
+249.99",16548249,8192 MB,165 W,Desktop  Other names: AMD Radeon RX 7600
+"GeForce RTX 2060 SUPER
+(37%) 16,524
+409.99*",16524409,8192 MB,175 W,Desktop  Other names: NVIDIA GeForce RTX 2060 SUPER
+"Radeon RX 6600 XT
+(37%) 16,509
+499.99",16509499,8192 MB,160 W,Desktop  Other names: AMD Radeon RX 6600 XT
+"GeForce RTX 3080 Laptop GPU
+(37%) 16,483
+NA",16483,8192 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 3080 Laptop GPU (Mobile)
+"Quadro GP100
+(36%) 16,374
+NA",16374,16384 MB,235 W,Workstation  Other names: NVIDIA Quadro GP100
+"Tesla V100-SXM2-16GB
+(36%) 16,235
+NA",16235,N/A,N/A,N/A
+"GeForce RTX 2070
+(36%) 16,148
+389.46*",16148389,8192 MB,175 W,"Desktop  Other names: NVIDIA GeForce RTX 2070, NVIDIA GeForce RTX 2070 (Mobile)"
+"RTX A5000 Laptop GPU
+(36%) 16,125
+NA",16125,16384 MB,165 W,Mobile Workstation  Other names: NVIDIA RTX A5000 Laptop GPU (Mobile)
+"RTX 3000 Ada Generation Laptop GPU
+(36%) 16,113
+NA",16113,N/A,N/A,N/A
+"Quadro RTX 5000
+(35%) 15,956
+NA",15956,16384 MB,230 W,"Workstation  Other names: NVIDIA Quadro RTX 5000, NVIDIA Quadro RTX 5000 (Mobile)"
+"Miracast display port driver V3
+(35%) 15,910
+NA",15910,N/A,N/A,N/A
+"GeForce RTX 2060 12GB
+(35%) 15,904
+NA",15904,12288 MB,185 W,Desktop  Other names: NVIDIA GeForce RTX 2060
+"Radeon PRO W6600
+(35%) 15,615
+NA",15615,N/A,N/A,N/A
+"Radeon Pro Vega II
+(35%) 15,597
+NA",15597,N/A,N/A,N/A
+"Radeon Pro W6800X Duo
+(35%) 15,557
+NA",15557,N/A,N/A,Desktop  Other names: AMD Radeon Pro W6800X Duo
+"GeForce GTX 1080
+(35%) 15,538
+442.79*",15538442,8192 MB,180 W,"Desktop  Other names: NVIDIA GeForce GTX 1080, NVIDIA GeForce GTX 1080 (Mobile)"
+"GeForce RTX 3070 Laptop GPU
+(34%) 15,441
+NA",15441,8192 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 3070 Laptop GPU (Mobile)
+"Radeon RX 6800S
+(34%) 15,436
+NA",15436,8192 MB,100 W,Mobile Other names: AMD Radeon RX 6800S
+"RTX A4000 Laptop GPU
+(34%) 15,394
+NA",15394,16384 MB,140 W,Mobile Workstation  Other names: NVIDIA RTX A4000 Laptop GPU (Mobile)
+"GeForce RTX 3060 8GB
+(34%) 15,386
+NA",15386,8192 MB,170 W,Desktop  Other names: NVIDIA GeForce RTX 3060
+"Quadro RTX 4000
+(34%) 15,311
+899.00*",15311899,8192 MB,160 W,Workstation  Other names: NVIDIA Quadro RTX 4000
+"Quadro P6000
+(34%) 15,308
+3,250.00*",153083250,24000 MB,250 W,Workstation  Other names: NVIDIA Quadro P6000
+"RTX 2000 Ada Generation Laptop GPU
+(34%) 15,229
+NA",15229,N/A,N/A,N/A
+"Radeon RX 6600
+(34%) 15,163
+189.99",15163189,8192 MB,132 W,Desktop  Other names: AMD Radeon RX 6600
+"GeForce RTX 2080 (Mobile)
+(34%) 15,107
+NA",15107,8192 MB,150 W,Mobile Other names: NVIDIA GeForce RTX 2080 (Mobile)
+"Radeon RX 7700S
+(34%) 15,096
+NA",15096,N/A,N/A,N/A
+"Radeon Pro W5700
+(33%) 15,026
+649.99*",15026649,8192 MB,205 W,Desktop  Other names: AMD Radeon Pro W5700
+"Radeon RX 6650M
+(33%) 15,018
+NA",15018,N/A,N/A,"Mobile Other names: AMD Radeon(TM) RX 6650M, AMD Radeon RX 6650M"
+"Radeon RX 6700S
+(33%) 14,969
+249.99",14969249,8192 MB,80 W,Mobile Other names: AMD Radeon RX 6700S
+"Quadro RTX 5000 (Mobile)
+(33%) 14,832
+NA",14832,16384 MB,110 W,Mobile Workstation  Other names: NVIDIA Quadro RTX 5000 (Mobile)
+"Radeon RX 7600S
+(33%) 14,732
+NA",14732,8192 MB,75 W,"Mobile Other names: AMD Radeon RX 7600S, AMD Radeon(TM) RX 7600S"
+"GeForce GTX 1070 Ti
+(33%) 14,698
+569.99*",14698569,8192 MB,180 W,Desktop  Other names: NVIDIA GeForce GTX 1070 Ti
+"NVIDIA A40
+(33%) 14,665
+NA",14665,N/A,N/A,N/A
+"GeForce RTX 4050 Laptop GPU
+(32%) 14,447
+NA",14447,6144 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 4050 Laptop GPU (Mobile)
+"Radeon PRO W7500
+(32%) 14,438
+NA",14438,N/A,N/A,N/A
+"Radeon RX 5700
+(32%) 14,433
+309.99*",14433309,8192 MB,180 W,"Desktop  Other names: AMD Radeon RX 5700, ASUS Radeon RX 5700, Radeon RX 5700"
+"Radeon RX Vega 64
+(32%) 14,286
+749.99*",14286749,8192 MB,295 W,"Desktop  Other names: Radeon(TM) RX Vega, Radeon RX Vega, AMD Radeon RX Vega 64"
+"Radeon PRO W7600
+(32%) 14,227
+NA",14227,N/A,N/A,N/A
+"RTX A3000 12GB Laptop GPU
+(31%) 14,178
+NA",14178,N/A,N/A,N/A
+"GeForce RTX 2060
+(31%) 14,152
+372.86",14152372,6144 MB,160 W,"Desktop  Other names: NVIDIA GeForce RTX 2060, NVIDIA GeForce RTX 2060 (Mobile)"
+"RTX 1000 Ada Generation Laptop GPU
+(31%) 14,060
+NA",14060,N/A,N/A,N/A
+"Radeon Pro Vega II Duo
+(31%) 14,018
+NA",14018,N/A,N/A,N/A
+"RadeonT RX 6850M XT
+(31%) 13,848
+NA",13848,12288 MB,165 W,Mobile Other names: AMD RadeonT RX 6850M XT
+"GeForce RTX 2080 Super with Max-Q Design
+(31%) 13,828
+NA",13828,8192 MB,80 W,Mobile Other names: NVIDIA GeForce RTX 2080 Super with Max-Q Design (Mobile)
+"GeForce GTX 980 Ti
+(31%) 13,811
+644.61*",13811644,6144 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX 980 Ti
+"Radeon RX 6600M
+(31%) 13,810
+199.99*",13810199,8192 MB,100 W,"Mobile Other names: AMD Radeon RX 6600M, AMD Radeon(TM) RX 6600M"
+"GeForce RTX 2070 Super with Max-Q Design
+(30%) 13,746
+NA",13746,8192 MB,80 W,Mobile Other names: NVIDIA GeForce RTX 2070 Super with Max-Q Design (Mobile)
+"Radeon Pro Vega 64X
+(30%) 13,709
+NA",13709,N/A,N/A,N/A
+"RTX A2000
+(30%) 13,703
+434.33*",13703434,N/A,N/A,N/A
+"RTX A2000 12GB
+(30%) 13,686
+NA",13686,N/A,N/A,N/A
+"NVIDIA TITAN X
+(30%) 13,660
+608.10*",13660608,12288 MB,250 W,Desktop  Other names: NVIDIA TITAN X (Pascal)
+"Radeon RX 5600 XT
+(30%) 13,607
+545.00*",13607545,6144 MB,150 W,"Desktop  Other names: AMD Radeon RX 5600 XT, ASUS Radeon RX 5600 XT"
+"Radeon RX 6700M
+(30%) 13,549
+269.99*",13549269,10240 MB,135 W,Mobile Other names: AMD Radeon RX 6700M
+"Radeon Pro WX 8200
+(30%) 13,527
+1,599.39*",135271599,8192 MB,230 W,Desktop  Other names: Radeon (TM) PRO WX 8200
+"GeForce GTX 1070
+(30%) 13,501
+529.99*",13501529,8192 MB,150 W,"Desktop  Other names: NVIDIA GeForce GTX 1070, NVIDIA GeForce GTX 1070 (Mobile)"
+"Quadro RTX 5000 with Max-Q Design
+(30%) 13,433
+NA",13433,16384 MB,80 W,Mobile Workstation  Other names: NVIDIA Quadro RTX 5000 with Max-Q Design (Mobile)
+"GeForce RTX 3060 Laptop GPU
+(30%) 13,350
+309.99*",13350309,6144 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 3060 Laptop GPU (Mobile)
+"Radeon RX 6800M
+(29%) 13,263
+NA",13263,12288 MB,145 W,Mobile Other names: AMD Radeon RX 6800M
+"Radeon Vega Frontier Edition
+(29%) 13,226
+1,679.99*",132261679,16384 MB,350 W,Desktop  Other names: Radeon Vega Frontier Edition
+"Radeon RX Vega 56
+(29%) 13,210
+752.99*",13210752,8192 MB,210 W,"Desktop  Other names: AMD Radeon RX Vega 56, Radeon RX Vega 56 Series"
+"Radeon RX 7600M XT
+(29%) 13,196
+NA",13196,8192 MB,120 W,"Mobile Other names: AMD Radeon RX 7600M XT, AMD Radeon(TM) RX 7600M XT"
+"Radeon PRO W6600X
+(29%) 13,113
+NA",13113,N/A,N/A,N/A
+"Intel Arc A770
+(29%) 13,037
+299.99",13037299,16384 MB,225 W,Desktop  Other names: Intel(R) Arc(TM) A770 Graphics
+"GeForce RTX 2080 with Max-Q Design
+(29%) 13,037
+2,099.99*",130372099,8192 MB,90 W,"Mobile Other names: NVIDIA GeForce RTX 2080 with Max-Q Design, NVIDIA GeForce RTX 2080 with Max-Q Design (Mobile)"
+"Radeon Pro Vega 64
+(29%) 12,920
+NA",12920,N/A,N/A,N/A
+"GeForce GTX TITAN X
+(29%) 12,913
+1,096.99*",129131096,12288 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX TITAN X
+"GeForce GTX 1660 Ti
+(29%) 12,910
+307.79",12910307,6144 MB,120 W,Desktop  Other names: NVIDIA GeForce GTX 1660 Ti
+"Radeon Pro VII
+(28%) 12,839
+NA",12839,N/A,N/A,N/A
+"GeForce RTX 3050 8GB
+(28%) 12,805
+209.97",12805209,8192 MB,130 W,Desktop  Other names: NVIDIA GeForce RTX 3050
+"GeForce GTX 1660 SUPER
+(28%) 12,751
+227.99",12751227,6144 MB,125 W,Desktop  Other names: NVIDIA GeForce GTX 1660 SUPER
+"Tesla T10
+(28%) 12,650
+NA",12650,N/A,N/A,N/A
+"Radeon Pro 5700 XT
+(28%) 12,613
+NA",12613,16384 MB,130 W,Desktop  Other names: AMD Radeon Pro 5700 XT
+"Quadro P5000
+(28%) 12,598
+1,868.99*",125981868,16384 MB,180 W,"Workstation  Other names: NVIDIA Quadro P5000, NVIDIA Quadro P5000 (Mobile)"
+"Quadro P5200 with Max-Q Design
+(28%) 12,531
+NA",12531,N/A,N/A,N/A
+"RTX A3000 Laptop GPU
+(28%) 12,481
+NA",12481,6144 MB,130 W,Mobile Workstation  Other names: NVIDIA RTX A3000 Laptop GPU (Mobile)
+"Radeon Pro WX 9100
+(28%) 12,470
+NA",12470,16384 MB,230 W,"Desktop  Other names: Radeon (TM) Pro WX 9100, Radeon Pro WX 9100, Radeon (TM) Pro WX 9100 Graphics"
+"Quadro RTX 4000 with Max-Q Design
+(28%) 12,447
+NA",12447,8192 MB,80 W,Mobile Other names: NVIDIA Quadro RTX 4000 with Max-Q Design (Mobile)
+"Radeon RX 6600S
+(28%) 12,445
+NA",12445,4096 MB,80 W,Mobile Other names: AMD Radeon RX 6600S
+"GeForce RTX 2070 (Mobile)
+(27%) 12,354
+NA",12354,8192 MB,115 W,Mobile Other names: NVIDIA GeForce RTX 2070 (Mobile)
+"Radeon Pro Vega 56
+(27%) 12,354
+NA",12354,8192 MB,N/A,Desktop  Other names: Radeon Pro Vega 56
+"Tesla V100-PCIE-16GB
+(27%) 12,328
+NA",12328,N/A,N/A,N/A
+"Radeon RX 6850M
+(27%) 12,274
+NA",12274,N/A,N/A,Mobile Other names: AMD RadeonT RX 6850M
+"Radeon Pro V520 MxGPU
+(27%) 12,258
+NA",12258,N/A,N/A,N/A
+"Quadro RTX 4000 (Mobile)
+(27%) 12,254
+NA",12254,8192 MB,110 W,Mobile Other names: NVIDIA Quadro RTX 4000 (Mobile)
+"Quadro P5200
+(27%) 12,239
+NA",12239,N/A,N/A,"Mobile Other names: NVIDIA Quadro P5200, NVIDIA Quadro P5200 (Mobile)"
+"Radeon RX 5600 OEM
+(27%) 12,137
+NA",12137,N/A,N/A,N/A
+"Intel Arc A750
+(27%) 12,022
+199.99",12022199,8192 MB,225 W,Desktop  Other names: Intel(R) Arc(TM) A750 Graphics
+"GeForce RTX 3050 OEM
+(26%) 11,915
+217.82*",11915217,N/A,N/A,N/A
+"Quadro M6000 24GB
+(26%) 11,883
+NA",11883,24576 MB,250 W,Workstation  Other names: NVIDIA Quadro M6000 24GB
+"Radeon Pro 5700
+(26%) 11,844
+NA",11844,8192 MB,130 W,Desktop  Other names: AMD Radeon Pro 5700
+"Quadro M6000
+(26%) 11,758
+4,914.90",117584914,12288 MB,250 W,Workstation  Other names: NVIDIA Quadro M6000
+"Intel Arc A580
+(26%) 11,700
+179.99",11700179,N/A,N/A,N/A
+"GeForce GTX 1660
+(26%) 11,675
+339.90*",11675339,6144 MB,120 W,Desktop  Other names: NVIDIA GeForce GTX 1660
+"Intel Arc A770M
+(26%) 11,673
+NA",11673,16384 MB,150 W,Mobile Other names: Intel(R) Arc(TM) A770M Graphics
+"GeForce RTX 2070 with Max-Q Design
+(26%) 11,647
+NA",11647,8192 MB,80 W,"Mobile Other names: NVIDIA GeForce RTX 2070 with Max-Q Design, NVIDIA GeForce RTX 2070 with Max-Q Design (Mobile)"
+"Quadro P4000
+(26%) 11,626
+556.19*",11626556,8192 MB,105 W,"Workstation  Other names: NVIDIA Quadro P4000, NVIDIA Quadro P4000 (Mobile)"
+"Tesla P40
+(26%) 11,622
+NA",11622,24576 MB,250 W,Workstation  Other names: NVIDIA Tesla P40
+"L4
+(25%) 11,519
+NA",11519,N/A,N/A,N/A
+"GeForce GTX 1080 with Max-Q Design
+(25%) 11,504
+NA",11504,8192 MB,110 W,"Mobile Other names: NVIDIA GeForce GTX 1080 with Max-Q Design, NVIDIA GeForce GTX 1080 with Max-Q Design (Mobile)"
+"Radeon RX 5600
+(25%) 11,490
+NA",11490,6144 MB,150 W,Desktop  Other names: AMD Radeon RX5600
+"Quadro P4200 with Max-Q Design
+(25%) 11,447
+NA",11447,N/A,N/A,"Workstation  Other names: NVIDIA Quadro P4200 with Max-Q Design, NVIDIA Quadro P4200 with Max-Q Design (Mobile)"
+"RTX A1000 Embedded GPU
+(25%) 11,369
+NA",11369,N/A,N/A,N/A
+"GeForce RTX 2060 (Mobile)
+(25%) 11,355
+NA",11355,6144 MB,80 W,Mobile Other names: NVIDIA GeForce RTX 2060 (Mobile)
+"Radeon Pro Vega 48
+(25%) 11,300
+NA",11300,N/A,N/A,N/A
+"Quadro RTX 3000
+(25%) 11,134
+NA",11134,6144 MB,80 W,"Mobile Workstation  Other names: NVIDIA Quadro RTX 3000 (Mobile), NVIDIA Quadro RTX 3000"
+"RTX 500 Ada Generation Laptop GPU
+(25%) 11,131
+NA",11131,N/A,N/A,Desktop  Other names: NVIDIA RTX 500 Ada Generation Laptop GPU (Mobile)
+"GeForce GTX 980
+(25%) 11,105
+247.35*",11105247,4096 MB,165 W,"Desktop  Other names: NVIDIA GeForce GTX 980, NVIDIA GeForce GTX 980 (Mobile)"
+"GRID P40-12Q
+(24%) 11,028
+NA",11028,N/A,N/A,N/A
+"Radeon Pro SSG
+(24%) 10,972
+2,410.15*",109722410,N/A,N/A,N/A
+"RTX A4500 Embedded GPU
+(24%) 10,916
+NA",10916,N/A,N/A,N/A
+"RTX A2000 8GB Laptop GPU
+(24%) 10,916
+NA",10916,N/A,N/A,N/A
+"Tesla T4
+(24%) 10,744
+4,420.46*",107444420,N/A,N/A,N/A
+"RTX A1000
+(24%) 10,741
+NA",10741,N/A,N/A,Desktop  Other names: NVIDIA RTX A1000
+"GeForce RTX 3050 6GB
+(24%) 10,656
+152.97",10656152,6144 MB,70 W,Desktop  Other names: NVIDIA GeForce RTX 3050
+"Intel Arc A730M
+(23%) 10,488
+NA",10488,N/A,N/A,N/A
+"GeForce GTX 1070 (Mobile)
+(23%) 10,465
+NA",10465,8192 MB,N/A,Mobile Other names: NVIDIA GeForce GTX 1070 (Mobile)
+"Tesla M40
+(23%) 10,465
+600.00*",10465600,N/A,N/A,N/A
+"Quadro P4200
+(23%) 10,440
+NA",10440,8192 MB,100 W,"Workstation  Other names: NVIDIA Quadro P4200, NVIDIA Quadro P4200 (Mobile)"
+"Tesla M40 24GB
+(23%) 10,418
+NA",10418,N/A,N/A,N/A
+"SuperDisplay Virtual Adapter
+(23%) 10,390
+NA",10390,N/A,N/A,N/A
+"GeForce RTX 3050 6GB Laptop GPU
+(23%) 10,312
+NA",10312,6144 MB,80 W,Mobile Other names: NVIDIA GeForce RTX 3050 6GB Laptop GPU (Mobile)
+"GeForce GTX 1660 Ti (Mobile)
+(22%) 10,187
+NA",10187,6144 MB,80 W,Mobile Other names: NVIDIA GeForce GTX 1660 Ti (Mobile)
+"GeForce GTX 1650 SUPER
+(22%) 10,163
+222.06*",10163222,4096 MB,100 W,Desktop  Other names: NVIDIA GeForce GTX 1650 SUPER
+"RTX A1000 6GB Laptop GPU
+(22%) 10,153
+NA",10153,N/A,N/A,N/A
+"GeForce RTX 3050 Ti Laptop GPU
+(22%) 10,147
+NA",10147,4096 MB,80 W,Mobile Other names: NVIDIA GeForce RTX 3050 Ti Laptop GPU (Mobile)
+"GeForce GTX 1060
+(22%) 10,076
+339.99",10076339,6144 MB,120 W,"Desktop  Other names: NVIDIA GeForce GTX 1060 6GB, NVIDIA GeForce GTX 1060, NVIDIA GeForce GTX 1060 (Mobile)"
+"GeForce GTX 1070 with Max-Q Design
+(22%) 9,937
+NA",9937,8192 MB,90 W,"Mobile Other names: NVIDIA GeForce GTX 1070 with Max-Q Design, NVIDIA GeForce GTX 1070 with MaxQ Design, NVIDIA GeForce GTX 1070 with Max-Q Design (Mobile)"
+"RTX A2000 Laptop GPU
+(22%) 9,912
+NA",9912,4096 MB,95 W,Mobile Workstation  Other names: NVIDIA RTX A2000 Laptop GPU (Mobile)
+"GRID P40-2B
+(22%) 9,842
+NA",9842,N/A,N/A,N/A
+"GeForce GTX 1060 3GB
+(22%) 9,761
+235.47*",9761235,3072 MB,120 W,Desktop  Other names: NVIDIA GeForce GTX 1060 3GB
+"GeForce RTX 2060 with Max-Q Design
+(21%) 9,756
+NA",9756,6144 MB,65 W,Mobile Other names: NVIDIA GeForce RTX 2060 with Max-Q Design (Mobile)
+"Radeon R9 Fury + Fury X
+(21%) 9,741
+449.99*",9741449,4096 MB,275 W,"Desktop  Other names: AMD Radeon R9 Fury X, AMD Radeon (TM) R9 Fury Series"
+"GeForce GTX 970
+(21%) 9,637
+237.99*",9637237,4096 MB,145 W,Desktop  Other names: NVIDIA GeForce GTX 970
+"Radeon RX 6550M
+(21%) 9,635
+NA",9635,N/A,N/A,"Mobile Other names: AMD Radeon RX 6550M, AMD Radeon(TM) RX 6550M"
+"Radeon R9 Fury
+(21%) 9,593
+443.10*",9593443,N/A,N/A,N/A
+"Radeon R9 Fury X
+(21%) 9,580
+NA",9580,N/A,N/A,N/A
+"Radeon RX 6500 XT
+(21%) 9,572
+169.00",9572169,4096 MB,107 W,"Desktop  Other names: AMD Radeon RX 6500 XT, AMD Radeon RX 6500 XT Series"
+"RTX A1000 Laptop GPU
+(21%) 9,546
+NA",9546,N/A,N/A,N/A
+"GeForce GTX 780 Ti
+(21%) 9,528
+339.99*",9528339,3072 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX 780 Ti
+"Radeon PRO W6600M
+(21%) 9,522
+NA",9522,N/A,N/A,Mobile Other names: AMD Radeon(TM) PRO W6600M
+"Ryzen 9 4900HSS with Radeon Graphics
+(21%) 9,461
+NA",9461,N/A,N/A,N/A
+"GeForce RTX 3050 Laptop GPU
+(21%) 9,458
+269.99*",9458269,4096 MB,75 W,Mobile Other names: NVIDIA GeForce RTX 3050 Laptop GPU (Mobile)
+"Quadro P3200 with Max-Q Design
+(21%) 9,440
+NA",9440,N/A,N/A,N/A
+"Radeon R9 390X
+(21%) 9,416
+NA",9416,8192 MB,275 W,"Desktop  Other names: AMD Radeon R9 390X, ASUS R9 390X Series"
+"Radeon RX 590
+(21%) 9,391
+549.99*",9391549,8192 MB,175 W,"Desktop  Other names: Radeon RX 590 Series, AMD Radeon RX 590, AMD Radeon RX 590 Series"
+"Quadro M5000
+(21%) 9,369
+499.00*",9369499,8192 MB,150 W,Workstation  Other names: NVIDIA Quadro M5000
+"Quadro P2200
+(21%) 9,330
+459.80*",9330459,5120 MB,75 W,Workstation  Other names: NVIDIA Quadro P2200
+"Intel Arc Pro A60
+(20%) 9,301
+NA",9301,N/A,N/A,N/A
+"Radeon Pro 5600M
+(20%) 9,233
+NA",9233,8192 MB,50 W,Mobile Other names: AMD Radeon Pro 5600M
+"Radeon RX 5500 XT
+(20%) 9,133
+181.29*",9133181,8192 MB,130 W,"Desktop  Other names: Radeon RX 5500 XT, ASUS Radeon RX 5500 XT, AMD Radeon RX 5500 XT"
+"Radeon Pro W5500
+(20%) 9,122
+409.99*",9122409,8192 MB,125 W,Desktop  Other names: AMD Radeon Pro W5500
+"GRID P40-2B4
+(20%) 9,111
+NA",9111,N/A,N/A,N/A
+"GeForce GTX 1060 5GB
+(20%) 9,094
+487.99*",9094487,5120 MB,120 W,Desktop  Other names: NVIDIA GeForce GTX 1060 5GB
+"Quadro P4000 with Max-Q Design
+(20%) 9,083
+NA",9083,16384 MB,80 W,Mobile Other names: NVIDIA Quadro P4000 with Max-Q Design
+"GeForce GTX TITAN Black
+(20%) 8,972
+1,331.24",89721331,6144 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX TITAN Black
+"GeForce GTX TITAN Z
+(20%) 8,942
+1,515.00*",89421515,12288 MB,375 W,Desktop  Other names: NVIDIA GeForce GTX TITAN Z
+"Tesla P4
+(20%) 8,926
+NA",8926,N/A,N/A,N/A
+"Radeon R9 390
+(20%) 8,912
+NA",8912,8192 MB,275 W,Desktop  Other names: AMD Radeon R9 390
+"Radeon RX 580
+(19%) 8,855
+179.99*",8855179,8192 MB,185 W,"Desktop  Other names: Radeon RX 580 Series, ASUS Radeon RX 580 Series, Radeon(TM) RX 580, AMD Radeon RX 580, AMD Radeon (TM) RX 580, Radeon(TM) RX580, Radeon (TM) RX 580 Graphics"
+"Radeon RX 5600M
+(19%) 8,796
+NA",8796,6144 MB,150 W,"Mobile Other names: AMD Radeon(TM) RX 5600M Series, AMD Radeon RX 5600M"
+"Radeon RX 5500
+(19%) 8,784
+NA",8784,4096 MB,150 W,"Desktop  Other names: Radeon RX 5500, AMD Radeon RX 5500"
+"Quadro P3200
+(19%) 8,772
+389.30*",8772389,N/A,N/A,N/A
+"GRID P40-24Q
+(19%) 8,719
+NA",8719,N/A,N/A,N/A
+"Radeon R9 290X
+(19%) 8,618
+NA",8618,N/A,N/A,N/A
+"Radeon RX 480
+(19%) 8,612
+339.99*",8612339,8192 MB,150 W,"Desktop  Other names: Radeon (TM) RX 480 Graphics, AMD Radeon (TM) RX 480, ASUS Radeon (TM) RX 480 Series, AMD Radeon RX 480, Radeon(TM) RX 480, Radeon RX480"
+"GeForce GTX 1660 Ti with Max-Q Design
+(19%) 8,611
+NA",8611,6144 MB,60 W,"Mobile Other names: NVIDIA GeForce GTX 1660 Ti with Max-Q Design (Mobile), NVIDIA GeForce GTX 1660 Ti with Max-Q Design"
+"Radeon R9 295X2
+(19%) 8,608
+499.10*",8608499,8192 MB,500 W,"Desktop  Other names: ASUS R9 295X2 Series, AMD Radeon R9 295X2"
+"Radeon RX590 GME
+(19%) 8,600
+NA",8600,8192 MB,175 W,Desktop  Other names: AMD Radeon RX590 GME
+"GRID RTX6000-1B
+(19%) 8,473
+NA",8473,N/A,N/A,N/A
+"Radeon R9 290X / 390X
+(18%) 8,389
+319.99*",8389319,4096 MB,290 W,"Desktop  Other names: ASUS R9 290X Series, AMD Radeon R9 200 Series, AMD Radeon R9 290X, AMD Radeon R9 290X / 390X, AMD Radeon (TM) R9 390 Series"
+"Radeon Pro 5500 XT
+(18%) 8,375
+NA",8375,N/A,N/A,N/A
+"Ryzen 5 4600HS with Radeon Graphics
+(18%) 8,371
+NA",8371,N/A,N/A,N/A
+"Radeon 890M
+(18%) 8,319
+NA",8319,N/A,N/A,Mobile Other names: AMD Radeon(TM) 890M Graphics
+"Radeon R9 290
+(18%) 8,290
+NA",8290,N/A,N/A,N/A
+"Tesla V100-PCIE-32GB
+(18%) 8,260
+NA",8260,N/A,N/A,N/A
+"Quadro RTX 3000 with Max-Q Design
+(18%) 8,255
+NA",8255,6144 MB,60 W,"Mobile Other names: NVIDIA Quadro RTX 3000 with Max-Q Design (Mobile), NVIDIA Quadro RTX 3000 with Max-Q Design"
+"GeForce GTX Titan
+(18%) 8,210
+745.00*",8210745,6144 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX Titan
+"Radeon Pro Duo
+(18%) 8,183
+3,970.36*",81833970,8192 MB,350 W,"Desktop  Other names: AMD Radeon Pro Duo, AMD Radeon(TM) Pro Duo, Radeon (TM) Pro Duo"
+"GeForce GTX 1060 (Mobile)
+(18%) 8,161
+NA",8161,6144 MB,80 W,Mobile Other names: NVIDIA GeForce GTX 1060 (Mobile)
+"Radeon R9 290 / 390
+(18%) 8,150
+380.00*",8150380,4096 MB,275 W,"Desktop  Other names: AMD Radeon R9 290 Series, ASUS R9 290 Series, AMD Radeon R9 200 Series, AMD Radeon R9 290, AMD Radeon R9 290 / 390, ASUS R9 390 Series, AMD Radeon (TM) R9 390 Series"
+"CMP 30HX
+(18%) 8,136
+NA",8136,N/A,N/A,N/A
+"EIZO Quadro MED-XN72
+(18%) 8,101
+NA",8101,N/A,N/A,Desktop  Other names: NVIDIA EIZO Quadro MED-XN72
+"Radeon PRO W6400
+(18%) 8,082
+NA",8082,N/A,N/A,N/A
+"Quadro K6000
+(18%) 8,060
+210.66*",8060210,12288 MB,225 W,Workstation  Other names: NVIDIA Quadro K6000
+"GeForce GTX 780
+(18%) 8,008
+279.99*",8008279,6144 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX 780
+"Ryzen 9 6900HS
+(18%) 8,005
+NA",8005,N/A,N/A,N/A
+"Radeon RX 470/570
+(18%) 8,000
+388.99*",8000388,8192 MB,120 W,"Desktop  Other names: Radeon (TM) RX 470 Graphics, AMD Radeon RX 470, Radeon (TM) RX 470 Series, Radeon RX 570 Series, ASUS Radeon (TM) RX 470 Series, AMD Radeon (TM) RX 570, Radeon (TM) RX 570, Radeon RX 570, ASUS Radeon RX 570 Series, ASUS Radeon RX 470 Series, Radeon (TM) RX 570 Graphics, AMD Radeon RX 570"
+"Quadro M5500
+(17%) 7,915
+NA",7915,8192 MB,150 W,Mobile Workstation  Other names: NVIDIA Quadro M5500
+"GeForce GTX 1060 with Max-Q Design
+(17%) 7,900
+NA",7900,6144 MB,80 W,"Mobile Other names: NVIDIA GeForce GTX 1060 with Max-Q Design, NVIDIA GeForce GTX 1060 with Max-Q Design (Mobile)"
+"Radeon RX 780
+(17%) 7,898
+NA",7898,N/A,N/A,N/A
+"GeForce GTX 1650
+(17%) 7,872
+149.99",7872149,4096 MB,75 W,"Desktop  Other names: NVIDIA GeForce GTX 1650, NVIDIA GeForce GTX 1650 (Mobile)"
+"Radeon Pro WX 7100
+(17%) 7,847
+1,047.99*",78471047,8192 MB,130 W,"Workstation  Other names: Radeon (TM) Pro WX 7100 Graphics, AMD Radeon (TM) Pro WX 7100 Graphics, Radeon Pro WX 7100"
+"Radeon 880M
+(17%) 7,809
+NA",7809,N/A,N/A,Mobile Other names: AMD Radeon(TM) 880M Graphics
+"T1200 Laptop GPU
+(17%) 7,791
+NA",7791,N/A,N/A,N/A
+"Radeon RX 6500M
+(17%) 7,784
+NA",7784,4096 MB,50 W,"Mobile Other names: AMD Radeon RX 6500M, AMD Radeon(TM) RX 6500M"
+"Radeon Pro 580
+(17%) 7,753
+NA",7753,N/A,N/A,N/A
+"Radeon RX 6500
+(17%) 7,724
+NA",7724,N/A,N/A,N/A
+"Radeon RX 580 2048SP
+(17%) 7,683
+NA",7683,16384 MB,150 W,"Desktop  Other names: AMD Radeon RX 580 2048SP, Radeon RX580 2048SP"
+"GeForce RTX 2050
+(17%) 7,677
+NA",7677,4096 MB,45 W,Mobile Other names: NVIDIA GeForce RTX 2050 (Mobile)
+"T1000
+(17%) 7,655
+303.99*",7655303,N/A,N/A,N/A
+"Radeon RX 6400
+(17%) 7,611
+159.00",7611159,4096 MB,53 W,Desktop  Other names: AMD Radeon RX 6400
+"T1000 8GB
+(17%) 7,599
+NA",7599,N/A,N/A,N/A
+"Radeon RX 5300
+(17%) 7,588
+NA",7588,3072 MB,100 W,"Desktop  Other names: AMD RadeonT RX 5300, AMD Radeon RX 5300, Radeon RX 5300"
+"FirePro W9100
+(17%) 7,580
+1,729.99*",75801729,16384 MB,275 W,"Workstation  Other names: AMD FirePro W9100 (FireGL V), AMD FirePro W9100, AMD FirePro W9100 Graphics Adapter"
+"Tesla M60
+(17%) 7,551
+787.90*",7551787,N/A,N/A,N/A
+"Radeon Pro 580X
+(16%) 7,540
+NA",7540,8192 MB,150 W,Desktop  Other names: Radeon Pro 580X
+"GeForce GTX 1650 Ti
+(16%) 7,536
+NA",7536,4096 MB,55 W,Mobile Other names: NVIDIA GeForce GTX 1650 Ti (Mobile)
+"GRID P40-8Q
+(16%) 7,432
+NA",7432,N/A,N/A,N/A
+"Ryzen 9 4900HS with Radeon Graphics
+(16%) 7,419
+NA",7419,N/A,N/A,N/A
+"GeForce GTX 980M
+(16%) 7,360
+289.99*",7360289,4096 MB,100 W,"Mobile Other names: NVIDIA GeForce GTX 980M, NVIDIA GTX 980M, NVIDIA GeForce GTX 980M (Mobile)"
+"Radeon Pro W5500X
+(16%) 7,351
+NA",7351,N/A,N/A,N/A
+"FirePro W8100
+(16%) 7,333
+704.00*",7333704,8192 MB,220 W,"Workstation  Other names: AMD FirePro W8100 (FireGL V), AMD FirePro W8100, AMD FirePro W8100 Graphic Adapter"
+"Tesla P100-PCIE-16GB
+(16%) 7,225
+5,699.00*",72255699,16384 MB,250 W,Workstation  Other names: NVIDIA Tesla P100-PCIE-16GB
+"Quadro T2000
+(16%) 7,200
+528.35*",7200528,N/A,N/A,"Mobile Other names: NVIDIA Quadro T2000 (Mobile), NVIDIA Quadro T2000"
+"Radeon Ryzen 9 6900HS
+(16%) 7,184
+NA",7184,N/A,N/A,N/A
+"Radeon Pro 5300
+(16%) 7,144
+NA",7144,N/A,N/A,N/A
+"RadeonT 780M
+(16%) 7,103
+NA",7103,N/A,N/A,Mobile Other names: AMD RadeonT 780M
+"Radeon 780M
+(15%) 7,075
+NA",7075,N/A,N/A,"Mobile Other names: AMD Radeon 780M Graphics, AMD Radeon 780M, AMD Radeon (TM) 780M Graphics, AMD Radeon(TM) 780M, AMD Radeon(TM) 780M Graphics"
+"T600 Laptop GPU
+(15%) 7,069
+NA",7069,N/A,N/A,N/A
+"A10-8Q
+(15%) 7,042
+NA",7042,N/A,N/A,N/A
+"Ryzen 7 4800HS with Radeon Graphics
+(15%) 6,999
+NA",6999,N/A,N/A,N/A
+"Quadro M5000M
+(15%) 6,992
+546.92*",6992546,8192 MB,100 W,"Mobile Workstation  Other names: NVIDIA Quadro M5000M, NVIDIA Quadro M5000M (Mobile)"
+"GeForce GTX 1650 (Mobile)
+(15%) 6,969
+NA",6969,4096 MB,50 W,Mobile Other names: NVIDIA GeForce GTX 1650 (Mobile)
+"AMD Ryzen Z1 Extreme
+(15%) 6,963
+NA",6963,N/A,N/A,N/A
+"Quadro P2000
+(15%) 6,932
+439.60*",6932439,5120 MB,75 W,"Workstation  Other names: NVIDIA Quadro P2000, NVIDIA Quadro P2000 (Mobile)"
+"Quadro T2000 with Max-Q Design
+(15%) 6,895
+NA",6895,N/A,N/A,Mobile Other names: NVIDIA Quadro T2000 with Max-Q Design (Mobile)
+"GRID P4-4Q
+(15%) 6,843
+NA",6843,N/A,N/A,N/A
+"Intel Arc A530M
+(15%) 6,836
+NA",6836,N/A,N/A,N/A
+"CMP 40HX
+(15%) 6,778
+NA",6778,N/A,N/A,N/A
+"Radeon Pro 5500M
+(15%) 6,775
+NA",6775,8192 MB,85 W,Mobile Other names: AMD Radeon Pro 5500M
+"RTX A500 Laptop GPU
+(15%) 6,768
+NA",6768,N/A,N/A,N/A
+"GeForce RTX 3050 4GB Laptop GPU
+(15%) 6,765
+NA",6765,4096 MB,80 W,Mobile Other names: NVIDIA GeForce RTX 3050 4GB Laptop GPU (Mobile)
+"GRID P4-8Q
+(15%) 6,733
+NA",6733,N/A,N/A,N/A
+"Radeon Pro WX 7130
+(15%) 6,715
+NA",6715,8192 MB,130 W,Mobile Other names: AMD Radeon (TM) Pro WX 7130 Graphics
+"GeForce GTX 970XM FORCE
+(15%) 6,707
+NA",6707,N/A,N/A,N/A
+"Quadro T1000 with Max-Q Design
+(15%) 6,702
+NA",6702,N/A,N/A,Mobile Other names: NVIDIA Quadro T1000 with Max-Q Design (Mobile)
+"Radeon R9 285
+(15%) 6,680
+NA",6680,N/A,N/A,N/A
+"Ryzen 7 6800HS with Radeon Graphics
+(15%) 6,677
+NA",6677,N/A,N/A,N/A
+"Quadro M4000
+(15%) 6,673
+362.00*",6673362,8192 MB,120 W,Workstation  Other names: NVIDIA Quadro M4000
+"Radeon RX Vega M GH
+(14%) 6,570
+NA",6570,N/A,N/A,N/A
+"Quadro P3000
+(14%) 6,509
+NA",6509,6144 MB,75 W,"Mobile Workstation  Other names: NVIDIA Quadro P3000, NVIDIA Quadro P3000 (Mobile)"
+"T600
+(14%) 6,467
+239.99*",6467239,N/A,N/A,N/A
+"P106-100
+(14%) 6,466
+NA",6466,N/A,N/A,N/A
+"Quadro T1000
+(14%) 6,462
+369.99*",6462369,N/A,N/A,"Mobile Other names: NVIDIA Quadro T1000, NVIDIA Quadro T1000 (Mobile)"
+"Radeon RX 580X
+(14%) 6,459
+NA",6459,8192 MB,185 W,"Desktop  Other names: Radeon(TM) RX 580X, AMD Radeon RX 580X"
+"Radeon RX 6300M
+(14%) 6,422
+NA",6422,N/A,N/A,Mobile Other names: AMD Radeon RX 6300M
+"GeForce GTX 1650 Ti with Max-Q Design
+(14%) 6,413
+NA",6413,4096 MB,35 W,Mobile Other names: NVIDIA GeForce GTX 1650 Ti with Max-Q Design (Mobile)
+"Radeon Pro 570
+(14%) 6,337
+NA",6337,N/A,N/A,N/A
+"GeForce GTX 1050 Ti
+(14%) 6,316
+428.39",6316428,4096 MB,75 W,"Desktop  Other names: NVIDIA GeForce GTX 1050 Ti, NVIDIA GeForce GTX 1050 Ti (Mobile)"
+"Radeon 660M Ryzen 5 6600H
+(14%) 6,286
+NA",6286,N/A,N/A,Mobile Other names: AMD Radeon(TM) 660M Ryzen 5 6600H 
+"Tesla M6
+(14%) 6,284
+199.00*",6284199,N/A,N/A,N/A
+"Intel Arc A380
+(14%) 6,215
+119.99*",6215119,6144 MB,75 W,Desktop  Other names: Intel(R) Arc(TM) A380 Graphics
+"Radeon R9 380X
+(13%) 6,187
+349.99*",6187349,4096 MB,190 W,"Desktop  Other names: AMD Radeon (TM) R9 380 Series, AMD Radeon R9 380X, ASUS R9 380X Series"
+"GeForce GTX 1650 with Max-Q Design
+(13%) 6,176
+NA",6176,4096 MB,35 W,"Mobile Other names: NVIDIA GeForce GTX 1650 with Max-Q Design (Mobile), NVIDIA GeForce GTX 1650 with Max-Q Design"
+"Radeon R9 280X
+(13%) 6,170
+NA",6170,3072 MB,250 W,Desktop  Other names: AMD Radeon R9 280X
+"Radeon 680M Ryzen 7 7735HS
+(13%) 6,167
+NA",6167,N/A,N/A,Mobile Other names: AMD Radeon(TM) 680M Ryzen 7 7735HS 
+"Quadro M4000M
+(13%) 6,149
+254.91*",6149254,4096 MB,100 W,"Mobile Workstation  Other names: NVIDIA Quadro M4000M, NVIDIA Quadro M4000M (Mobile)"
+"FirePro W9000
+(13%) 6,138
+845.00*",6138845,6144 MB,274 W,"Workstation  Other names: AMD FirePro W9000 (FireGL V), AMD FirePro W9000"
+"Radeon R9 380
+(13%) 6,134
+89.99*",613489,4096 MB,190 W,"Desktop  Other names: AMD Radeon R9 380, AMD Radeon (TM) R9 380, ASUS R9 380 Series"
+"Radeon Ryzen 7 6800HS
+(13%) 6,126
+NA",6126,N/A,N/A,N/A
+"Quadro K5200
+(13%) 6,104
+415.00*",6104415,8192 MB,150 W,Workstation  Other names: NVIDIA Quadro K5200
+"Ryzen 9 6900HS with Radeon Graphics
+(13%) 6,098
+NA",6098,N/A,N/A,N/A
+"GeForce GTX 960
+(13%) 6,081
+172.00*",6081172,4096 MB,120 W,"Desktop  Other names: NVIDIA GeForce GTX 960, (PE64) NVIDIA GeForce GTX 960, NVIDIA GeForce GTX 960 (Mobile)"
+"GeForce RTX 3050 A Laptop GPU
+(13%) 6,038
+NA",6038,N/A,N/A,Desktop  Other names: NVIDIA GeForce RTX 3050 A Laptop GPU (Mobile)
+"GeForce MX570 A
+(13%) 6,035
+NA",6035,N/A,N/A,N/A
+"Radeon Ryzen 9 6900HS Creator Edition
+(13%) 6,012
+NA",6012,N/A,N/A,N/A
+"Radeon Pro 5300M
+(13%) 5,952
+NA",5952,4096 MB,85 W,Mobile Other names: AMD Radeon Pro 5300M
+"GRID P100-16Q
+(13%) 5,945
+NA",5945,N/A,N/A,N/A
+"Radeon Ryzen 7 6810U
+(13%) 5,937
+NA",5937,N/A,N/A,Desktop  Other names: AMD Radeon(TM) Graphics Ryzen 7 6810U 
+"Radeon Ryzen 7 7736U
+(13%) 5,928
+NA",5928,N/A,N/A,N/A
+"GeForce GTX 1050 Ti (Mobile)
+(13%) 5,919
+NA",5919,4096 MB,N/A,Mobile Other names: NVIDIA GeForce GTX 1050 Ti (Mobile)
+"GeForce GTX 770
+(13%) 5,914
+249.00*",5914249,4096 MB,230 W,Desktop  Other names: NVIDIA GeForce GTX 770
+"Radeon Ryzen 9 PRO 6950H
+(13%) 5,877
+NA",5877,N/A,N/A,N/A
+"Intel Arc Pro A30M
+(13%) 5,862
+NA",5862,N/A,N/A,N/A
+"Tesla K80
+(13%) 5,852
+593.95*",5852593,N/A,N/A,N/A
+"RadeonT 760M
+(13%) 5,846
+NA",5846,N/A,N/A,Mobile Other names: AMD RadeonT 760M
+"Ryzen 9 PRO 6950H with Radeon Graphics
+(13%) 5,828
+NA",5828,N/A,N/A,N/A
+"Matrox LUMA A380P
+(13%) 5,805
+NA",5805,N/A,N/A,N/A
+"Ryzen 9 PRO 6950H
+(12%) 5,759
+NA",5759,N/A,N/A,N/A
+"Radeon 760M
+(12%) 5,748
+NA",5748,N/A,N/A,"Mobile Other names: AMD Radeon 760M Graphics, AMD Radeon(TM) 760M"
+"GeForce MX570
+(12%) 5,735
+NA",5735,N/A,N/A,N/A
+"Radeon TM
+(12%) 5,721
+NA",5721,N/A,N/A,Desktop  Other names: AMD Radeon TM Graphics
+"GeForce GTX 970M
+(12%) 5,721
+209.99*",5721209,3072 MB,75 W,"Mobile Other names: NVIDIA GeForce GTX 970M, NVIDIA GeForce GTX 970M (Mobile)"
+"Radeon PRO Ryzen 7 PRO 6850U
+(12%) 5,715
+NA",5715,N/A,N/A,N/A
+"Radeon Ryzen 7 PRO 6850H
+(12%) 5,689
+NA",5689,N/A,N/A,N/A
+"GRID T4-8Q
+(12%) 5,680
+NA",5680,N/A,N/A,N/A
+"RadeonT 680M Ryzen 7 7735HS
+(12%) 5,651
+NA",5651,N/A,N/A,Mobile Other names: AMD RadeonT 680M Ryzen 7 7735HS 
+"Quadro M3000M
+(12%) 5,609
+159.95*",5609159,4096 MB,75 W,"Mobile Workstation  Other names: NVIDIA Quadro M3000M, NVIDIA Quadro M3000M (Mobile)"
+"Radeon Eng Sample: 100-000000534-40_Y
+(12%) 5,592
+NA",5592,N/A,N/A,N/A
+"Ryzen 7 PRO 6850U
+(12%) 5,581
+NA",5581,N/A,N/A,N/A
+"Ryzen 9 5900HS with Radeon Graphics
+(12%) 5,570
+NA",5570,N/A,N/A,N/A
+"Radeon RX 5500M
+(12%) 5,569
+NA",5569,4096 MB,85 W,"Mobile Other names: AMD RadeonT RX 5500M, Radeon RX 5500M, AMD Radeon RX 5500M Series"
+"Radeon HD 7990
+(12%) 5,566
+399.99*",5566399,3072 MB,375 W,"Desktop  Other names: AMD Radeon HD 7900 Series, ASUS HD7990 Series"
+"GeForce GTX 680
+(12%) 5,566
+399.00*",5566399,4096 MB,195 W,Desktop  Other names: NVIDIA GeForce GTX 680
+"Radeon PRO W6300
+(12%) 5,560
+NA",5560,2048 MB,25 W,Mobile Workstation  Other names: AMD Radeon PRO W6300
+"Radeon R9 280
+(12%) 5,555
+NA",5555,3072 MB,250 W,Desktop  Other names: AMD Radeon R9 280
+"Radeon R9 285 / 380
+(12%) 5,550
+485.00*",5550485,2048 MB,190 W,"Desktop  Other names: AMD Radeon R9 285, AMD Radeon R9 285 / 380, AMD Radeon (TM) R9 380 Series"
+"Radeon Pro WX 5100
+(12%) 5,548
+359.99*",5548359,8096 MB,75 W,"Workstation  Other names: Radeon (TM) Pro WX 5100 Graphics, Radeon Pro WX 5100"
+"Intel Arc 140T
+(12%) 5,546
+NA",5546,N/A,N/A,"Desktop  Other names: Intel(R) Arc(TM) 140T Graphics (16GB), Intel(R) Arc(TM) 140T Graphics (32GB), Intel(R) Arc(TM) 140T Graphics (8GB)"
+"GRID M60-8A
+(12%) 5,523
+NA",5523,N/A,N/A,N/A
+"GeForce GTX 690
+(12%) 5,518
+280.99*",5518280,2048 MB,300 W,Desktop  Other names: NVIDIA GeForce GTX 690
+"Intel Arc A310
+(12%) 5,502
+99.99*",550299,N/A,N/A,N/A
+"Radeon Ryzen 7 6800HS Creator Edition
+(12%) 5,461
+NA",5461,N/A,N/A,N/A
+"Radeon RX 6300
+(12%) 5,441
+NA",5441,N/A,N/A,N/A
+"GeForce GTX 760 Ti OEM
+(12%) 5,427
+NA",5427,N/A,N/A,N/A
+"Radeon Ryzen 7 6800H
+(12%) 5,411
+NA",5411,N/A,N/A,N/A
+"Ryzen 9 6900HX with Radeon Graphics
+(12%) 5,383
+NA",5383,N/A,N/A,N/A
+"Ryzen 7 6800HS Creator Edition
+(12%) 5,382
+NA",5382,N/A,N/A,N/A
+"GRID P40-4Q
+(12%) 5,365
+NA",5365,N/A,N/A,N/A
+"GeForce GTX 1050 Ti with Max-Q Design
+(12%) 5,356
+NA",5356,4096 MB,N/A,"Mobile Other names: NVIDIA GeForce GTX 1050 Ti with Max-Q Design, NVIDIA GeForce GTX 1050 Ti with Max-Q Design (Mobile)"
+"GeForce GTX 950
+(12%) 5,334
+141.99*",5334141,2048 MB,90 W,"Desktop  Other names: NVIDIA GeForce GTX 950, NVIDIA GeForce GTX 950 (Mobile)"
+"GeForce GTX 670
+(12%) 5,325
+193.98*",5325193,4096 MB,170 W,Desktop  Other names: NVIDIA GeForce GTX 670
+"Intel Arc Pro
+(11%) 5,323
+NA",5323,N/A,N/A,Desktop  Other names: Intel(R) Arc(TM) Pro Graphics
+"Parsec Virtual Display Adapter
+(11%) 5,320
+NA",5320,N/A,N/A,N/A
+"Intel Arc
+(11%) 5,304
+NA",5304,N/A,N/A,N/A
+"Radeon Pro Vega 20
+(11%) 5,300
+NA",5300,N/A,N/A,N/A
+"Radeon Ryzen 7 7735HS
+(11%) 5,292
+NA",5292,N/A,N/A,N/A
+"Quadro P2000 with Max-Q Design
+(11%) 5,270
+NA",5270,N/A,N/A,N/A
+"GeForce GTX 760 Ti
+(11%) 5,255
+297.50*",5255297,2048 MB,170 W,Desktop  Other names: NVIDIA GeForce GTX 760 Ti OEM
+"FirePro W7100
+(11%) 5,251
+389.30*",5251389,8192 MB,150 W,"Workstation  Other names: AMD FirePro W7100, AMD FirePro W7100 (FireGL V), AMD FirePro W7100 Graphics Adapter"
+"Radeon HD 7970 / R9 280X
+(11%) 5,248
+246.99*",5248246,3072 MB,250 W,"Desktop  Other names: AMD Radeon HD 7970, AMD Radeon HD 7970 / R9 280X, ASUS R9 280X Series"
+"Ryzen 7 6800H
+(11%) 5,248
+NA",5248,N/A,N/A,N/A
+"Radeon Ryzen 7 7735H
+(11%) 5,238
+NA",5238,N/A,N/A,N/A
+"Ryzen 7 6800HS
+(11%) 5,237
+NA",5237,N/A,N/A,N/A
+"A16
+(11%) 5,236
+NA",5236,N/A,N/A,N/A
+"Radeon Eng Sample: 100-000000550-40_Y
+(11%) 5,224
+NA",5224,N/A,N/A,Desktop  Other names: AMD Radeon(TM) Graphics Eng Sample: 100-000000550-40_Y
+"Ryzen 7 7735U with Radeon Graphics
+(11%) 5,216
+NA",5216,N/A,N/A,N/A
+"Radeon HD 8990
+(11%) 5,214
+NA",5214,3072 MB,375 W,Desktop  Other names: AMD Radeon HD 8990
+"GRID M60-2Q
+(11%) 5,203
+NA",5203,N/A,N/A,N/A
+"Radeon R9 M395X
+(11%) 5,195
+NA",5195,4096 MB,125 W,"Mobile Other names: AMD RADEON R9 M395X, AMD Radeon R9 M395X (Bootcamp edition by bootcampdrivers.com)"
+"GRID RTX8000P-4Q
+(11%) 5,174
+NA",5174,N/A,N/A,Desktop  Other names: NVIDIA GRID RTX8000P-4Q
+"Radeon Ryzen 7 7735U
+(11%) 5,164
+NA",5164,N/A,N/A,N/A
+"Q12U-1
+(11%) 5,164
+NA",5164,N/A,N/A,N/A
+"Radeon R9 M295X
+(11%) 5,150
+1,449.00*",51501449,4096 MB,125 W,"Mobile Other names: AMD RADEON R9 M295X, AMD Radeon R9 M295X (Bootcamp XG edition by bootcampdrivers.com)"
+"Radeon Ryzen 7 PRO 6850U
+(11%) 5,141
+NA",5141,N/A,N/A,N/A
+"Ryzen 7 7735HS with Radeon Graphics
+(11%) 5,128
+NA",5128,N/A,N/A,N/A
+"Ryzen 7 PRO 6850U with Radeon Graphics
+(11%) 5,116
+NA",5116,N/A,N/A,N/A
+"Intel Arc A370M
+(11%) 5,115
+NA",5115,N/A,N/A,N/A
+"GeForce GTX 1050 3GB
+(11%) 5,092
+NA",5092,3072 MB,75 W,Desktop  Other names: NVIDIA GeForce GTX 1050
+"Ryzen 7 PRO 6860Z
+(11%) 5,077
+NA",5077,N/A,N/A,N/A
+"Intel Arc 140V GPU
+(11%) 5,073
+NA",5073,N/A,N/A,"Desktop  Other names: Intel(R) Arc(TM) 140V GPU (16GB), Intel(R) Arc(TM) 140V GPU (8GB), Intel(R) Arc(TM) 140V GPU (16 GB)"
+"FirePro S9000
+(11%) 5,059
+NA",5059,N/A,N/A,N/A
+"GRID T4-16Q
+(11%) 5,055
+NA",5055,N/A,N/A,N/A
+"EIZO Quadro MED-XN51LP
+(11%) 5,048
+NA",5048,N/A,N/A,N/A
+"Radeon Ryzen 7 PRO 6850HS
+(11%) 5,044
+NA",5044,N/A,N/A,N/A
+"GeForce GTX 1050
+(11%) 5,034
+239.00*",5034239,2048 MB,75 W,"Desktop  Other names: NVIDIA GeForce GTX 1050, NVIDIA GeForce GTX 1050 (Mobile)"
+"Radeon Eng Sample: 100-000000545-40_Y
+(11%) 5,026
+NA",5026,N/A,N/A,N/A
+"Ryzen 7 6800U
+(11%) 5,006
+NA",5006,N/A,N/A,N/A
+"GeForce GTX 1630
+(11%) 4,984
+189.99*",4984189,N/A,N/A,N/A
+"Radeon Instinct MI25 MxGPU
+(11%) 4,979
+NA",4979,N/A,N/A,N/A
+"Barco MXRT 7600
+(11%) 4,944
+602.59*",4944602,N/A,N/A,N/A
+"Radeon Eng Sample: 100-000000560-40_Y
+(11%) 4,917
+NA",4917,N/A,N/A,N/A
+"Radeon R9 M395
+(11%) 4,911
+NA",4911,2048 MB,125 W,"Mobile Other names: AMD RADEON R9 M395, AMD Radeon R9 M395 (Bootcamp XG edition by bootcampdrivers.com)"
+"GRID P40-1A
+(11%) 4,909
+NA",4909,N/A,N/A,Desktop  Other names: NVIDIA GRID P40-1A
+"FirePro S9050
+(11%) 4,901
+NA",4901,N/A,N/A,N/A
+"Ryzen 7 PRO 6860Z with Radeon Graphics
+(10%) 4,869
+NA",4869,N/A,N/A,N/A
+"Radeon R9 270X
+(10%) 4,868
+326.50*",4868326,4096 MB,180 W,"Desktop  Other names: AMD Radeon R9 200 Series, ASUS R9 270X Series, AMD Radeon R9 270X"
+"GRID P40-2Q
+(10%) 4,844
+NA",4844,N/A,N/A,N/A
+"Ryzen 7 6800U with Radeon Graphics
+(10%) 4,829
+NA",4829,N/A,N/A,N/A
+"T550 Laptop GPU
+(10%) 4,823
+NA",4823,N/A,N/A,N/A
+"Radeon Pro Vega 16
+(10%) 4,809
+NA",4809,N/A,N/A,N/A
+"Ryzen 7 6800H with Radeon Graphics
+(10%) 4,801
+NA",4801,N/A,N/A,N/A
+"GeForce GTX 760
+(10%) 4,793
+149.00*",4793149,4096 MB,170 W,"Desktop  Other names: NVIDIA GeForce GTX 760, NVIDIA GeForce GTX 760 (192-bit), NVIDIA GeForce GTX 760 (Mobile)"
+"GRID RTX6000P-6Q
+(10%) 4,777
+NA",4777,N/A,N/A,N/A
+"FirePro S10000
+(10%) 4,768
+NA",4768,N/A,N/A,N/A
+"Radeon HD 7950 / R9 280
+(10%) 4,765
+240.83*",4765240,3072 MB,200 W,"Desktop  Other names: AMD Radeon HD 7950, AMD Radeon HD 7950 / R9 280, ASUS R9 280 Series"
+"Intel Arc A310 LP
+(10%) 4,753
+NA",4753,N/A,N/A,N/A
+"Radeon R9 370
+(10%) 4,722
+159.99*",4722159,4096 MB,150 W,Desktop  Other names: AMD Radeon (TM) R9 370
+"L40-6Q
+(10%) 4,718
+NA",4718,N/A,N/A,Desktop  Other names: NVIDIA L40-6Q
+"Radeon Sky 500
+(10%) 4,709
+NA",4709,N/A,N/A,N/A
+"Ryzen 9 PRO 6950HS with Radeon Graphics
+(10%) 4,705
+NA",4705,N/A,N/A,N/A
+"GRID V100D-2Q
+(10%) 4,668
+NA",4668,N/A,N/A,N/A
+"Radeon Pro WX Vega M GL
+(10%) 4,643
+NA",4643,4096 MB,65 W,Mobile Other names: Radeon Pro WX Vega M GL Graphics
+"Radeon HD 7870
+(10%) 4,638
+176.00*",4638176,2048 MB,175 W,"Desktop  Other names: AMD Radeon HD 7870, ASUS HD7870 Series, AMD Radeon HD 7800 Series, AMD Radeon HD 7770, AMD Radeon HD 7870 (Tahiti LE)"
+"GeForce GTX 580
+(10%) 4,614
+488.59*",4614488,3072 MB,244 W,Desktop  Other names: NVIDIA GeForce GTX 580
+"Radeon Ryzen 7 PRO 6860Z
+(10%) 4,594
+NA",4594,N/A,N/A,N/A
+"Radeon Ryzen 7 6800U
+(10%) 4,585
+NA",4585,N/A,N/A,N/A
+"A16-2Q
+(10%) 4,583
+NA",4583,N/A,N/A,N/A
+"B8DKMDAP
+(10%) 4,557
+NA",4557,N/A,N/A,N/A
+"GeForce MX550
+(10%) 4,544
+NA",4544,N/A,N/A,N/A
+"Radeon Pro 465
+(10%) 4,538
+NA",4538,N/A,N/A,N/A
+"FirePro S7000
+(10%) 4,524
+246.54*",4524246,4096 MB,150 W,"Workstation  Other names: AMD FirePro S7000 (FireGL V), AMD FirePro S7000"
+"Radeon R7 370
+(10%) 4,511
+NA",4511,N/A,150 W,"Desktop  Other names: AMD Radeon (TM) R7 370 Series Graphics, AMD Radeon (TM) R7 370 Series, AMD Radeon R7 370"
+"Tesla K40c
+(10%) 4,495
+NA",4495,N/A,N/A,N/A
+"Intel Arc 130V GPU
+(10%) 4,481
+NA",4481,N/A,N/A,"Desktop  Other names: Intel(R) Arc(TM) 130V GPU (8 GB), Intel(R) Arc(TM) 130V GPU (8GB), Intel(R) Arc(TM) 130V GPU (16GB)"
+"Radeon HD 7870 XT
+(10%) 4,470
+NA",4470,2048 MB,185 W,"Desktop  Other names: AMD Radeon HD 7800 Series, AMD Radeon HD 7870 (Tahiti LE)"
+"Quadro P1000
+(10%) 4,463
+289.99*",4463289,4096 MB,47 W,"Workstation  Other names: NVIDIA Quadro P1000, NVIDIA Quadro P1000 (Mobile)"
+"GeForce GTX 1050 (Mobile)
+(10%) 4,462
+NA",4462,4096 MB,N/A,Mobile Other names: NVIDIA GeForce GTX 1050 (Mobile)
+"GRID M60-1B
+(10%) 4,457
+NA",4457,N/A,N/A,Workstation  Other names: NVIDIA GRID M60-1B
+"Tesla K20m
+(9%) 4,432
+NA",4432,N/A,N/A,N/A
+"GRID P6-4Q
+(9%) 4,429
+NA",4429,N/A,N/A,N/A
+"GeForce GTX 660 Ti
+(9%) 4,428
+144.00*",4428144,3072 MB,150 W,Desktop  Other names: NVIDIA GeForce GTX 660 Ti
+"FirePro W7000 Adapter
+(9%) 4,359
+NA",4359,N/A,N/A,N/A
+"RTX A400
+(9%) 4,346
+NA",4346,N/A,N/A,Desktop  Other names: NVIDIA RTX A400
+"GRID GTX P40-6
+(9%) 4,340
+NA",4340,N/A,N/A,N/A
+"Quadro K4200
+(9%) 4,327
+249.00*",4327249,4096 MB,105 W,Workstation  Other names: NVIDIA Quadro K4200
+"Radeon RX 5300M
+(9%) 4,307
+NA",4307,3072 MB,85 W,Mobile Other names: Radeon RX 5300M
+"Radeon R9 270
+(9%) 4,306
+NA",4306,N/A,N/A,N/A
+"GRID RTX6000P-4Q
+(9%) 4,283
+NA",4283,N/A,N/A,N/A
+"FirePro W7000
+(9%) 4,280
+278.05*",4280278,4096 MB,150 W,"Workstation  Other names: AMD FirePro W7000 (FireGL V), AMD FirePro W7000"
+"Radeon R9 270 / R7 370
+(9%) 4,260
+213.16*",4260213,2048 MB,150 W,"Desktop  Other names: AMD Radeon R9 200 Series, ASUS R9 270 Series, AMD Radeon R9 270, AMD Radeon(TM) R9 270, AMD Radeon R9 270 / R7 370"
+"Quadro M2200
+(9%) 4,254
+249.99*",4254249,4096 MB,55 W,"Mobile Workstation  Other names: NVIDIA Quadro M2200, NVIDIA Quadro M2200 (Mobile)"
+"Radeon Ryzen 9 PRO 6950HS
+(9%) 4,251
+NA",4251,N/A,N/A,N/A
+"RTXA6000-8Q
+(9%) 4,237
+NA",4237,N/A,N/A,N/A
+"NVIDIA A40-4Q
+(9%) 4,230
+NA",4230,N/A,N/A,N/A
+"NVIDIA A40-8Q
+(9%) 4,220
+NA",4220,N/A,N/A,N/A
+"Radeon Ryzen 7 Pro 7735U
+(9%) 4,188
+NA",4188,N/A,N/A,N/A
+"A16-4Q
+(9%) 4,166
+NA",4166,N/A,N/A,Desktop  Other names: NVIDIA A16-4Q
+"GRID RTX8000P-12A
+(9%) 4,166
+NA",4166,N/A,N/A,N/A
+"GRID V100D-8Q
+(9%) 4,156
+NA",4156,N/A,N/A,N/A
+"FirePro W8000
+(9%) 4,149
+573.00*",4149573,4096 MB,189 W,"Workstation  Other names: AMD FirePro W8000 (FireGL V), AMD FirePro W8000 (FireGL V) Graphics Adapter, AMD FirePro W8000"
+"GeForce GTX 680MX
+(9%) 4,138
+NA",4138,4096 MB,122 W,"Mobile Other names: NVIDIA GeForce GTX 680MX, NVIDIA GeForce GTX 680MX (Mobile)"
+"Winsta0\\Default
+(9%) 4,125
+NA",4125,N/A,N/A,Desktop  Other names: Winsta0\\Default
+"GeForce GTX 480
+(9%) 4,107
+169.99*",4107169,1536 MB,250 W,Desktop  Other names: NVIDIA GeForce GTX 480
+"Radeon RX 460
+(9%) 4,104
+166.81*",4104166,4096 MB,75 W,"Desktop  Other names: Radeon(TM) RX 460 Graphics, Radeon (TM) RX 460 Graphics, AMD Radeon RX 460, ASUS Radeon (TM) RX 460 Series, AMD Radeon (TM) RX 460 Graphics, Radeon(TM) RX 460, AMD Radeon (TM) RX 460, AMD Radeon(TM) RX460, Radeon (TM) RX 460"
+"Radeon PRO Ryzen 5 PRO 6650U
+(9%) 4,067
+NA",4067,N/A,N/A,N/A
+"GeForce GTX 1050 with Max-Q Design
+(9%) 4,062
+NA",4062,4096 MB,N/A,"Mobile Other names: NVIDIA GeForce GTX 1050 with Max-Q Design, NVIDIA GeForce GTX 1050 with Max-Q Design (Mobile)"
+"RadeonT 660M Ryzen 5 7535HS
+(9%) 4,051
+NA",4051,N/A,N/A,Mobile Other names: AMD RadeonT 660M Ryzen 5 7535HS 
+"Radeon Eng Sample: 100-000000561-40_Y
+(9%) 4,042
+NA",4042,N/A,N/A,N/A
+"Radeon HD 7800-serie
+(9%) 4,029
+NA",4029,N/A,N/A,N/A
+"GeForce GTX 660
+(9%) 4,003
+167.95*",4003167,3072 MB,140 W,Desktop  Other names: NVIDIA GeForce GTX 660
+"Quadro K5000
+(8%) 3,993
+249.00*",3993249,4096 MB,122 W,Workstation  Other names: NVIDIA Quadro K5000
+"Quadro M2000
+(8%) 3,985
+264.24*",3985264,4096 MB,75 W,Workstation  Other names: NVIDIA Quadro M2000
+"GRID RTX8000-4Q
+(8%) 3,961
+NA",3961,N/A,N/A,N/A
+"Radeon RX 7600M
+(8%) 3,940
+NA",3940,N/A,N/A,Mobile Other names: AMD Radeon(TM) RX 7600M
+"GeForce GTX 570
+(8%) 3,929
+149.99*",3929149,2560 MB,219 W,Desktop  Other names: NVIDIA GeForce GTX 570
+"GRID P6-2Q
+(8%) 3,926
+NA",3926,N/A,N/A,N/A
+"GeForce GTX 750 Ti
+(8%) 3,900
+88.11*",390088,4096 MB,60 W,"Desktop  Other names: NVIDIA GeForce GTX 750 Ti, NVIDIA GeForce GTX 750Ti, (PE64) NVIDIA GeForce GTX 750 Ti, NVIDIA GeForce GTX 750 Ti (Mobile)"
+"Radeon Ryzen 9 7950X 16-Core
+(8%) 3,899
+NA",3899,N/A,N/A,N/A
+"GRID M60-8Q
+(8%) 3,884
+NA",3884,N/A,N/A,N/A
+"Radeon HD 8970M
+(8%) 3,876
+139.99*",3876139,4096 MB,100 W,Mobile Other names: AMD Radeon HD 8970M
+"Matrox LUMA A310F
+(8%) 3,873
+NA",3873,N/A,N/A,N/A
+"Radeon HD 7850
+(8%) 3,868
+174.99",3868174,2048 MB,130 W,"Desktop  Other names: AMD Radeon HD 7850, ASUS HD7850 Series"
+"GRID RTX8000P-2Q
+(8%) 3,843
+NA",3843,N/A,N/A,N/A
+"EIZO MED-XN43
+(8%) 3,843
+NA",3843,N/A,N/A,Desktop  Other names: NVIDIA EIZO MED-XN43
+"Radeon Eng Sample: 100-000000562-40_Y
+(8%) 3,841
+NA",3841,N/A,N/A,Desktop  Other names: AMD Radeon(TM) Graphics Eng Sample: 100-000000562-40_Y
+"GRID M60-4Q
+(8%) 3,831
+NA",3831,N/A,N/A,Workstation  Other names: NVIDIA GRID M60-4Q
+"GeForce GTX 880M
+(8%) 3,818
+NA",3818,8192 MB,130 W,"Mobile Other names: NVIDIA GeForce GTX880M, NVIDIA GeForce GTX 880M, NVIDIA GeForce GTX 880M (Mobile)"
+"GRID V100-2Q
+(8%) 3,811
+NA",3811,N/A,N/A,N/A
+"GeForce GTX 780M
+(8%) 3,804
+499.00*",3804499,4096 MB,122 W,"Mobile Other names: NVIDIA GeForce GTX 780M, NVIDIA GeForce GTX 780M (Mobile)"
+"Radeon RX Vega M GL
+(8%) 3,799
+NA",3799,N/A,N/A,N/A
+"GeForce GTX 965M
+(8%) 3,797
+NA",3797,4096 MB,60 W,"Mobile Other names: NVIDIA GeForce GTX 965M, NVIDIA GTX 965M, %NVIDIA_DEV.1427.176B.103C%, NVIDIA GeForce GTX 965M (Mobile)"
+"T400 4GB
+(8%) 3,773
+NA",3773,N/A,N/A,N/A
+"FirePro S7150
+(8%) 3,770
+1,697.99*",37701697,N/A,N/A,N/A
+"Radeon Ryzen 5 6600HS Creator Edition
+(8%) 3,754
+NA",3754,N/A,N/A,N/A
+"Barco MXRT 7500
+(8%) 3,753
+299.00*",3753299,N/A,N/A,N/A
+"Ryzen 7 PRO 6850HS with Radeon Graphics
+(8%) 3,736
+NA",3736,N/A,N/A,N/A
+"GeForce MX450
+(8%) 3,735
+NA",3735,N/A,N/A,N/A
+"Ryzen 5 PRO 6650H with Radeon Graphics
+(8%) 3,727
+NA",3727,N/A,N/A,N/A
+"Radeon Ryzen 5 PRO 6650H
+(8%) 3,725
+NA",3725,N/A,N/A,N/A
+"P104-100
+(8%) 3,707
+299.99*",3707299,N/A,N/A,N/A
+"Radeon Ryzen 5 6600H
+(8%) 3,702
+NA",3702,N/A,N/A,N/A
+"GRID M60-1Q
+(8%) 3,695
+NA",3695,N/A,N/A,N/A
+"Radeon Ryzen 5 PRO 6650U
+(8%) 3,695
+NA",3695,N/A,N/A,N/A
+"Eng Sample: 100-000000545-40_Y
+(8%) 3,692
+NA",3692,N/A,N/A,N/A
+"Matrox LUMA A310
+(8%) 3,690
+NA",3690,N/A,N/A,N/A
+"Ryzen 5 7535HS with Radeon Graphics
+(8%) 3,680
+NA",3680,N/A,N/A,N/A
+"Radeon Pro 560X
+(8%) 3,678
+NA",3678,N/A,N/A,N/A
+"Ryzen 5 6600HS Creator Edition
+(8%) 3,671
+NA",3671,N/A,N/A,N/A
+"T500
+(8%) 3,670
+NA",3670,N/A,N/A,N/A
+"Radeon R9 M485X
+(8%) 3,661
+NA",3661,N/A,N/A,N/A
+"Radeon Pro WX 4100
+(8%) 3,651
+499.99*",3651499,4096 MB,50 W,"Desktop  Other names: Radeon Pro WX4100 Graphics, Radeon Pro WX 4100, Radeon (TM) Pro WX 4100"
+"Radeon RX 560
+(8%) 3,649
+185.45",3649185,4096 MB,80 W,"Desktop  Other names: AMD Radeon (TM) RX 560, Radeon RX 560 Series, Radeon(TM) RX 560 Graphics, AMD Radeon RX 560, Radeon (TM) RX 560, AMD Radeon(TM) RX 560"
+"Quadro P620
+(8%) 3,641
+574.55*",3641574,2048 MB,40 W,"Workstation  Other names: NVIDIA Quadro P620, NVIDIA Quadro P620 (Mobile)"
+"GeForce GTX 775M
+(8%) 3,635
+NA",3635,N/A,N/A,"Mobile Other names: NVIDIA GeForce GTX 775M, NVIDIA GeForce GTX 775M (Mobile)"
+"T400
+(8%) 3,627
+131.74*",3627131,N/A,N/A,N/A
+"Radeon 660M Ryzen 5 7535HS
+(8%) 3,614
+NA",3614,N/A,N/A,Mobile Other names: AMD Radeon(TM) 660M Ryzen 5 7535HS 
+"Radeon R9 M390X
+(8%) 3,597
+NA",3597,4096 MB,100 W,"Mobile Other names: AMD Radeon (TM) R9 M390X, AMD RADEON R9 M390X"
+"GRID RTX8000-2Q
+(8%) 3,574
+NA",3574,N/A,N/A,N/A
+"GeForce GTX 680M KY_Bullet Edition
+(8%) 3,569
+NA",3569,N/A,N/A,Mobile Other names: NVIDIA GeForce GTX 680M KY_Bullet Edition
+"GRID M6-8Q
+(8%) 3,568
+NA",3568,N/A,N/A,N/A
+"Radeon HD 7970M
+(8%) 3,559
+NA",3559,4096 MB,75 W,"Mobile Other names: AMD Radeon HD 7970M, AMD Radeon HD 7970M (Engineering Sample - WDDM v2.0)"
+"Radeon Ryzen 7 4800HS
+(8%) 3,555
+NA",3555,N/A,N/A,N/A
+"Quadro K2200
+(8%) 3,553
+268.30*",3553268,4096 MB,68 W,Workstation  Other names: NVIDIA Quadro K2200
+"Microsoft Basic Display Adapter Ryzen 5 3550H
+(7%) 3,537
+NA",3537,N/A,N/A,N/A
+"Ryzen 5 7535U with Radeon Graphics
+(7%) 3,529
+NA",3529,N/A,N/A,N/A
+"Ryzen 5 6600H with Radeon Graphics
+(7%) 3,525
+NA",3525,N/A,N/A,N/A
+"Ryzen 5 PRO 6650U
+(7%) 3,519
+NA",3519,N/A,N/A,N/A
+"GRID K520
+(7%) 3,516
+149.99*",3516149,N/A,N/A,Workstation  Other names: NVIDIA GRID K520
+"Ryzen 5 PRO 6650U with Radeon Graphics
+(7%) 3,515
+NA",3515,N/A,N/A,N/A
+"Quadro 7000
+(7%) 3,505
+NA",3505,6144 MB,204 W,Workstation  Other names: NVIDIA Quadro 7000
+"Radeon Eng Sample: 100-000000261-50_Y
+(7%) 3,490
+NA",3490,N/A,N/A,Desktop  Other names: AMD Radeon(TM) Graphics Eng Sample: 100-000000261-50_Y
+"Radeon Pro 560
+(7%) 3,475
+NA",3475,N/A,N/A,N/A
+"Radeon Pro W5500M
+(7%) 3,470
+NA",3470,4096 MB,85 W,"Mobile Other names: AMD Radeon(TM) Pro W5500M Graphics, AMD Radeon(TM) Pro W5500M, AMD Radeon Pro W5500M"
+"Quadro K2200M
+(7%) 3,469
+124.95*",3469124,N/A,N/A,N/A
+"Radeon Ryzen 7 4800H
+(7%) 3,462
+NA",3462,N/A,N/A,N/A
+"Quadro M2000M
+(7%) 3,461
+213.16*",3461213,4096 MB,55 W,"Mobile Workstation  Other names: NVIDIA Quadro M2000M, NVIDIA Quadro M2000M (Mobile)"
+"Radeon Pro 460
+(7%) 3,453
+NA",3453,N/A,N/A,N/A
+"GRID T4-2Q
+(7%) 3,451
+NA",3451,N/A,N/A,N/A
+"GeForce GTX 870M
+(7%) 3,450
+NA",3450,6144 MB,110 W,"Mobile Other names: NVIDIA GeForce GTX 870M, NVIDIA GeForce GTX 870M (Mobile)"
+"Tesla C2050 / C2070
+(7%) 3,428
+NA",3428,6144 MB,238 W,Workstation  Other names: NVIDIA Tesla C2050 / C2070
+"NVIDIA A10-4Q
+(7%) 3,425
+NA",3425,N/A,N/A,N/A
+"Custom GPU 0932
+(7%) 3,396
+NA",3396,N/A,N/A,Desktop  Other names: AMD Custom GPU 0932
+"Radeon Ryzen 5 6600U
+(7%) 3,382
+NA",3382,N/A,N/A,N/A
+"GeForce GTX 960M
+(7%) 3,375
+1,169.00*",33751169,4096 MB,65 W,"Mobile Other names: NVIDIA GeForce GTX 960M, NVIDIA GeForce GTX 960M (Mobile)"
+"NVIDIA A40-12Q
+(7%) 3,371
+NA",3371,N/A,N/A,N/A
+"Radeon HD8970M
+(7%) 3,369
+NA",3369,N/A,N/A,Mobile Other names: AMD Radeon(TM) HD8970M
+"Radeon E8870PCIe
+(7%) 3,368
+NA",3368,N/A,N/A,N/A
+"GeForce GTX 960A
+(7%) 3,355
+NA",3355,N/A,N/A,N/A
+"GRID M10-1Q
+(7%) 3,351
+NA",3351,N/A,N/A,N/A
+"GeForce GTX 750
+(7%) 3,347
+139.63",3347139,2048 MB,55 W,Desktop  Other names: NVIDIA GeForce GTX 750
+"GeForce GTX 650 Ti BOOST
+(7%) 3,345
+NA",3345,2048 MB,134 W,Desktop  Other names: NVIDIA GeForce GTX 650 Ti BOOST
+"GeForce GTX 590
+(7%) 3,341
+435.00*",3341435,3072 MB,365 W,Desktop  Other names: NVIDIA GeForce GTX 590
+"Radeon Ryzen 5 7535HS
+(7%) 3,321
+NA",3321,N/A,N/A,N/A
+"Quadro P600
+(7%) 3,310
+210.58*",3310210,2048 MB,40 W,"Workstation  Other names: NVIDIA Quadro P600, NVIDIA Quadro P600 (Mobile)"
+"GRID T4-1Q
+(7%) 3,303
+NA",3303,N/A,N/A,N/A
+"Radeon RX 560X
+(7%) 3,301
+NA",3301,4096 MB,75 W,"Desktop  Other names: Radeon RX 560X Series, RX 560X, RadeonT RX 560X, AMD Radeon (TM) RX 560X, Radeon (TM) RX 560X"
+"GRID P100-8Q
+(7%) 3,267
+NA",3267,N/A,N/A,N/A
+"GRID T4-4Q
+(7%) 3,260
+NA",3260,N/A,N/A,N/A
+"Radeon Ryzen 5 7535U
+(7%) 3,259
+NA",3259,N/A,N/A,N/A
+"Radeon Ryzen 5 Pro 7535U
+(7%) 3,258
+NA",3258,N/A,N/A,N/A
+"Radeon R9 M290X
+(7%) 3,256
+NA",3256,4096 MB,100 W,"Mobile Other names: AMD Radeon R9 M290X, AMD Radeon(TM) R9 M290X, AMD Radeon R9 M290X (Bootcamp XG edition by bootcampdrivers.com)"
+"GeForce 770M
+(7%) 3,246
+176.99*",3246176,N/A,N/A,Mobile Other names: NVIDIA GeForce 770M
+"Snapdragon X Elite - X1E001DE - Qualcomm Adreno GP
+(7%) 3,246
+NA",3246,N/A,N/A,Desktop  Other names: Snapdragon(R) X Elite - X1E001DE - Qualcomm(R) Adreno(TM) GPU
+"Radeon R9 M470X
+(7%) 3,244
+NA",3244,4096 MB,75 W,"Mobile Other names: AMD Radeon (TM) R9 M470X, Radeon (TM) R9 M470X"
+"GeForce GTX 680M
+(7%) 3,239
+135.99*",3239135,4096 MB,100 W,"Mobile Other names: NVIDIA GeForce GTX 680M, NVIDIA GeForce GTX 680M (Mobile)"
+"Eng Sample: 100-000000534-40_Y
+(7%) 3,237
+NA",3237,N/A,N/A,N/A
+"Quadro M1200
+(7%) 3,234
+NA",3234,4096 MB,45 W,"Mobile Workstation  Other names: NVIDIA Quadro M1200, NVIDIA Quadro M1200 (Mobile)"
+"Ryzen 5 6600U with Radeon Graphics
+(7%) 3,233
+NA",3233,N/A,N/A,N/A
+"GRID P4-8A
+(7%) 3,206
+NA",3206,N/A,N/A,N/A
+"Intel Graphics
+(7%) 3,203
+NA",3203,N/A,N/A,N/A
+"Radeon 740M
+(7%) 3,197
+NA",3197,N/A,N/A,"Mobile Other names: AMD Radeon(TM) 740M, AMD Radeon 740M Graphics, AMD Radeon (TM) 740M Graphics"
+"Radeon R7 260X
+(7%) 3,190
+139.99*",3190139,2048 MB,115 W,"Desktop  Other names: AMD Radeon R7 200 Series, AMD Radeon R7 260X, ASUS R7 260X Series"
+"Radeon R9 260
+(7%) 3,182
+NA",3182,N/A,N/A,N/A
+"Tesla C2050
+(7%) 3,176
+269.99*",3176269,N/A,N/A,N/A
+"Tesla M10
+(7%) 3,172
+2,695.00*",31722695,N/A,N/A,N/A
+"Quadro K5100M
+(7%) 3,163
+1,108.84*",31631108,8192 MB,100 W,"Workstation  Other names: NVIDIA Quadro K5100M, NVIDIA Quadro K5100M (Mobile)"
+"FirePro V7000
+(7%) 3,162
+NA",3162,N/A,N/A,N/A
+"FirePro W7170M
+(7%) 3,162
+NA",3162,N/A,N/A,N/A
+"Tesla K40m
+(7%) 3,143
+NA",3143,N/A,N/A,N/A
+"A16-2B
+(7%) 3,141
+NA",3141,N/A,N/A,Desktop  Other names: NVIDIA A16-2B
+"Radeon Pro 555
+(7%) 3,141
+1,049.00*",31411049,N/A,N/A,N/A
+"Tesla C2070
+(7%) 3,121
+604.00*",3121604,6144 MB,247 W,Workstation  Other names: NVIDIA Tesla C2070
+"Radeon Pro 455
+(7%) 3,113
+449.00*",3113449,N/A,N/A,N/A
+"Radeon R7 360
+(7%) 3,110
+145.99*",3110145,2048 MB,100 W,"Desktop  Other names: AMD Radeon (TM) R7 360 Series, AMD Radeon(TM) R7 360 Graphics, ASUS R7 360 Series, AMD Radeon(TM) R7 360 Series, AMD Radeon R7 360"
+"GeForce GTX 470
+(7%) 3,107
+59.99*",310759,1280 MB,215 W,Desktop  Other names: NVIDIA GeForce GTX 470
+"Matrox LUMA A310FP
+(6%) 3,093
+NA",3093,N/A,N/A,N/A
+"Radeon HD 7790
+(6%) 3,090
+139.99*",3090139,2048 MB,85 W,"Desktop  Other names: AMD Radeon HD 7700 Series, ASUS HD7790 Series, AMD Radeon HD 7700 Series (Engineering Sample - WDDM v2.0)"
+"GeForce GTX 560 Ti
+(6%) 3,055
+129.99*",3055129,2048 MB,170 W,Desktop  Other names: NVIDIA GeForce GTX 560 Ti
+"GeForce GTX 860M
+(6%) 3,047
+114.00*",3047114,2048 MB,45 W,"Mobile Other names: NVIDIA GeForce GTX 860M, NVIDIA GeForce GTX 860M (Mobile)"
+"EIZO MED-X5000
+(6%) 3,038
+NA",3038,N/A,N/A,N/A
+"Radeon R9 360
+(6%) 3,032
+133.89*",3032133,2048 MB,85 W,"Desktop  Other names: AMD Radeon R9 360, AMD Radeon (TM) R9 360"
+"Tesla C2075
+(6%) 3,017
+646.00*",3017646,N/A,N/A,N/A
+"Radeon HD 6990
+(6%) 3,014
+498.49*",3014498,2048 MB,375 W,Desktop  Other names: AMD Radeon HD 6990
+"FirePro W5100
+(6%) 2,989
+125.99*",2989125,4096 MB,75 W,"Workstation  Other names: AMD FirePro W5100 (FireGL V) Graphics Adapter, AMD FirePro W5100 (FireGL V), AMD FirePro W5100, AMD FirePro W5100 Graphics Adapter"
+"Snapdragon X Elite - X1E84100 - Qualcomm Adreno GP
+(6%) 2,981
+NA",2981,N/A,N/A,Desktop  Other names: Snapdragon(R) X Elite - X1E84100 - Qualcomm(R) Adreno(TM) GPU
+"FirePro W5000
+(6%) 2,979
+184.00*",2979184,2048 MB,75 W,"Workstation  Other names: AMD FirePro W5000 (FireGL V), AMD FirePro W5000 (FireGL V) Graphics Adapter, AMD FirePro W5000"
+"GRID M10-4Q
+(6%) 2,977
+NA",2977,N/A,N/A,N/A
+"Radeon Ryzen 9 5900H
+(6%) 2,961
+NA",2961,N/A,N/A,N/A
+"GRID K260Q
+(6%) 2,949
+NA",2949,N/A,N/A,Workstation  Other names: NVIDIA GRID K260Q
+"P102-100
+(6%) 2,945
+NA",2945,N/A,N/A,Desktop  Other names: NVIDIA P102-100
+"Quadro K1200
+(6%) 2,940
+285.29*",2940285,4096 MB,45 W,Workstation  Other names: NVIDIA Quadro K1200
+"Tesla K20Xm
+(6%) 2,918
+7,699.00*",29187699,6144 MB,235 W,Workstation  Other names: NVIDIA Tesla K20Xm
+"Ryzen 7 5800HS with Radeon Graphics
+(6%) 2,917
+NA",2917,N/A,N/A,N/A
+"Radeon R7 260
+(6%) 2,892
+89.99*",289289,1024 MB,95 W,Desktop  Other names: AMD Radeon R7 260
+"Ryzen 9 5900HX with Radeon Graphics
+(6%) 2,888
+NA",2888,N/A,N/A,N/A
+"Ryzen 7 PRO 4700G with Radeon Graphics
+(6%) 2,880
+NA",2880,N/A,N/A,N/A
+"FirePro M6100 FireGL V
+(6%) 2,875
+NA",2875,N/A,N/A,N/A
+"Eng Sample: 100-000000261-50_Y
+(6%) 2,860
+NA",2860,N/A,N/A,N/A
+"Custom GPU 0405
+(6%) 2,856
+NA",2856,N/A,N/A,N/A
+"Quadro M1000M
+(6%) 2,854
+85.99*",285485,4096 MB,40 W,"Mobile Workstation  Other names: NVIDIA Quadro M1000M, NVIDIA Quadro M1000M (Mobile)"
+"Radeon Pro V340 MxGPU
+(6%) 2,853
+NA",2853,N/A,N/A,N/A
+"GRID K280Q
+(6%) 2,840
+NA",2840,N/A,N/A,Workstation  Other names: NVIDIA GRID K280Q
+"Radeon HD 6970
+(6%) 2,832
+149.99*",2832149,2048 MB,250 W,Desktop  Other names: AMD Radeon HD 6970
+"Radeon Ryzen 7 5800H
+(6%) 2,824
+NA",2824,N/A,N/A,N/A
+"FirePro W4300
+(6%) 2,820
+239.99*",2820239,4096 MB,50 W,"Workstation  Other names: AMD FirePro W4300, AMD FirePro W4300 (FireGL V)"
+"FirePro 3D V9800
+(6%) 2,812
+2,499.00*",28122499,4096 MB,225 W,"Workstation  Other names: ATI FirePro V9800 (FireGL), ATI FirePro V9800 (FireGL V)"
+"GeForce MX350
+(6%) 2,805
+NA",2805,N/A,N/A,N/A
+"GeForce GTX 770M
+(6%) 2,799
+138.00*",2799138,3072 MB,75 W,"Mobile Other names: NVIDIA GeForce GTX 770M, NVIDIA GeForce GTX 770M (Mobile)"
+"Ryzen 7 5700G with Radeon Graphics
+(6%) 2,795
+NA",2795,N/A,N/A,N/A
+"Radeon HD 8950
+(6%) 2,793
+NA",2793,3072 MB,225 W,Desktop  Other names: AMD Radeon HD 8950
+"Quadro M620
+(6%) 2,787
+NA",2787,2048 MB,30 W,"Mobile Workstation  Other names: NVIDIA Quadro M620, NVIDIA Quadro M620 (Mobile)"
+"Quadro K5000M
+(6%) 2,779
+508.91*",2779508,4096 MB,100 W,"Workstation  Other names: NVIDIA Quadro K5000M, NVIDIA Quadro K5000M (Mobile)"
+"Radeon R9 M380
+(6%) 2,774
+NA",2774,4096 MB,N/A,"Mobile Other names: AMD Radeon (TM) R9 M380, AMD Radeon R9 M380"
+"Ryzen 7 5700GE with Radeon Graphics
+(6%) 2,771
+NA",2771,N/A,N/A,N/A
+"Quadro K4100M
+(6%) 2,762
+261.29*",2762261,4096 MB,100 W,"Workstation  Other names: NVIDIA Quadro K4100M, NVIDIA Quadro K4100M (Mobile)"
+"GeForce GTX 560
+(6%) 2,754
+205.00*",2754205,1024 MB,150 W,Desktop  Other names: NVIDIA GeForce GTX 560
+"Radeon Ryzen 9 5980HS
+(6%) 2,749
+NA",2749,N/A,N/A,N/A
+"Ryzen 7 5800H with Radeon Graphics
+(6%) 2,740
+NA",2740,N/A,N/A,N/A
+"GRID K2
+(6%) 2,737
+1,331.97*",27371331,N/A,N/A,"Workstation  Other names: NVIDIA GRID K2, NVIDIA GRID K2 (Mobile)"
+"Radeon RX 550
+(6%) 2,730
+212.99",2730212,4096 MB,50 W,"Desktop  Other names: Radeon RX 550 Series, ASUS Radeon RX 550 Series, Radeon(TM) RX 550, Radeon (TM) RX 550, AMD Radeon(TM) RX550, AMD Radeon RX 550, Radeon RX 550, Radeon RX550/550 Series, AMD Radeon RX550 series"
+"FirePro V9800
+(6%) 2,727
+474.00*",2727474,N/A,N/A,N/A
+"Radeon Pro 450
+(6%) 2,723
+NA",2723,N/A,N/A,N/A
+"Qualcomm Adreno X1-85 GPU
+(6%) 2,720
+NA",2720,N/A,N/A,Desktop  Other names: Qualcomm(R) Adreno(TM) X1-85 GPU
+"Quadro K4000
+(6%) 2,718
+270.00*",2718270,3072 MB,80 W,Workstation  Other names: NVIDIA Quadro K4000
+"Radeon Eng Sample: 100-000000300-30_Y
+(6%) 2,717
+NA",2717,N/A,N/A,Desktop  Other names: AMD Radeon(TM) Graphics Eng Sample: 100-000000300-30_Y
