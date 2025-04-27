@@ -26,8 +26,20 @@ def recommend_laptop(user_prefs):
     brand = user_prefs["brand"]
     flag = "top"
 
-    budget_laptops = classified_laptops[classified_laptops["Price"] <= budget]
+    # Allow laptops slightly above budget (say +7% buffer)
+    max_budget = int(budget * 1.07)
 
+    # Filter laptops within the budget range
+    budget_laptops = classified_laptops[
+        (classified_laptops["Price"] >= budget * 0.9) &  # Allow 10% lower
+        (classified_laptops["Price"] <= max_budget)       # Allow 7% higher
+    ]
+
+    if budget_laptops.empty:
+        # If no laptops found, relax conditions (fallback)
+        budget_laptops = classified_laptops[classified_laptops["Price"] <= max_budget]
+
+    # Filter by brand if specified
     if "Any" not in brand:
         brand_laptops = budget_laptops[budget_laptops["Brand"].isin(brand)]
         filtered_laptops = brand_laptops if not brand_laptops.empty else budget_laptops
@@ -36,31 +48,38 @@ def recommend_laptop(user_prefs):
     else:
         filtered_laptops = budget_laptops
 
+    # Filter by categories
     filtered_laptops = filtered_laptops[
         filtered_laptops["Laptop Categories"].apply(lambda x: any(cat in eval(x) for cat in categories))
     ]
 
     if not filtered_laptops.empty:
         filtered_laptops['combined_score'] = filtered_laptops['Laptop Score']
+
+        # Travel preference: lighter laptops bonus
         if travel:
             wr = filtered_laptops['weight'].max() - filtered_laptops['weight'].min()
             if wr > 0:
                 filtered_laptops['combined_score'] += ((filtered_laptops['weight'].max() - filtered_laptops['weight']) / wr) * 0.3
+
+        # Battery preference: higher battery bonus
         if battery:
             br = filtered_laptops['battery capacity'].max() - filtered_laptops['battery capacity'].min()
             if br > 0:
                 filtered_laptops['combined_score'] += ((filtered_laptops['battery capacity'] - filtered_laptops['battery capacity'].min()) / br) * 0.3
-        return filtered_laptops.sort_values(by='combined_score', ascending=False).head(3), None, flag
+
+        # Final sort: prioritize closer to budget and high scores
+        filtered_laptops['price_diff'] = abs(filtered_laptops['Price'] - budget)
+        sorted_laptops = filtered_laptops.sort_values(by=["price_diff", "combined_score"], ascending=[True, False])
+
+        return sorted_laptops.head(3), None, flag
+
     else:
+        # No perfect match
         flag = "alternative"
-        if "Any" not in brand and flag == "nobrand":
-            brand_alts = budget_laptops[budget_laptops["Brand"].isin(brand)]
-            if not brand_alts.empty:
-                general = budget_laptops.sort_values(by="Laptop Score", ascending=False).head(3)
-                top_brand = brand_alts.sort_values(by="Laptop Score", ascending=False).head(1)
-                return general, top_brand, "alternative_with_brand"
         alt = budget_laptops.sort_values(by="Laptop Score", ascending=False).head(3)
         return None, alt, flag
+
 
 async def start(update: Update, context: CallbackContext):
     user_id = update.message.chat_id
